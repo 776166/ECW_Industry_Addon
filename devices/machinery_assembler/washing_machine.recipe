@@ -1,0 +1,21 @@
+{
+  "TargetUri": "ecwmain/machinery_assembler.recipetarget",
+  "Duration": 15.0,
+  "InputItems": [
+    {
+      "Uri": "base/iron_plate.item",
+      "Count": 10.0
+    },
+    {
+      "Uri": "ecwmain/electric_motor.item",
+      "Count": 5.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/washing_machine.item",
+      "Count": 5.0
+    }
+  ],
+  "ResearchUri": "ecwmain/engineering.research"
+}

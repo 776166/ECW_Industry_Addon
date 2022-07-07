@@ -1,0 +1,473 @@
+{
+    "Commands": [
+        {
+            "Optional": true,
+            "Command": "Set",
+            "TargetAssetUri": "mb_lp_series/dummy.item",
+            "Path": "Hidden",
+            "Value": true
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/mb_lp_box_01.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/box_semitrailer_01.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/box_trailer_01.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/box_trailer_02.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/mb_lp_dump_01.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/dump_semitrailer_01.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/dump_trailer_01.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/dump_trailer_02.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/mb_lp_flatbed_01.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [3, 1, 4],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [3, 1, 4],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [3, 2, 4],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/flatbed_semitrailer_01.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [3, 1, 6],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [3, 1, 6],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [3, 2, 6],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/flatbed_trailer_01.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [3, 1, 4],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [3, 1, 4],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [3, 2, 4],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/flatbed_trailer_02.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [3, 1, 6],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [3, 1, 6],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [3, 2, 6],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/mb_lp_tank_01.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        },
+
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/mb_lp_tank_02.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/tank_semitrailer_01.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/tank_trailer_01.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/tank_trailer_02.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "mb_lp_series/tank_trailer_03.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "TargetUri": "ecwmain/machinery_assembler.recipetarget",
+  "Duration": 15.0,
+  "InputItems": [
+    {
+      "Uri": "ecwmain/electric_motor.item",
+      "Count": 5.0
+    },
+    {
+      "Uri": "ecwmain/cast_iron.item",
+      "Count": 10.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/industrial_machine.item",
+      "Count": 5.0
+    }
+  ],
+  "ResearchUri": "ecwmain/heavy_engineering.research"
+}

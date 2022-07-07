@@ -1,0 +1,11 @@
+{
+  "Items": {
+    "ecwmain/flour.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 40.0,
+  "TargetUri": "ecwmain/flour_car_2.trainunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

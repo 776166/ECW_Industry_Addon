@@ -1,0 +1,43 @@
+{
+  "OutputInterval": 0.25,
+  "RequiresDeposit": false,
+  "Spacing": 3,
+  "Submeshes": null,
+  "Sounds": null,
+  "Smokes": null,
+  "ResearchUri": "ecwmain/mining_4.research",
+  "Size": [10, 4, 20],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/wood_big_mine.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": [
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_1",
+          "Lights": null
+        }
+      ],
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": [
+            {
+              "MeshUri": null,
+              "MeshVariant": "arctic_night_1",
+              "Lights": null
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Price": 890000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

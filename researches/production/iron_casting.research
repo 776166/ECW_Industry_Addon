@@ -1,0 +1,21 @@
+{
+  "ParentResearchUris": [
+    "base/manufacturing_2.research",
+    "base/iron_smelting.research"
+  ],
+  "Tier": 4,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "base/iron_bar.item",
+      "Count": null,
+      "CountMultiplier": null
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

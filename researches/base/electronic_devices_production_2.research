@@ -1,0 +1,21 @@
+{
+  "ParentResearchUris": [
+    "base/electronic_devices_production.research",
+    "ecwmain/electronics_production_3.research"
+  ],
+  "Tier": 8,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "ecwmain/advanced_circuit.item",
+      "Count": null,
+      "CountMultiplier": null
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

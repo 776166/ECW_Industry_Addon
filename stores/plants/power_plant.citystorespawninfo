@@ -1,0 +1,12 @@
+{
+  "ParentUri": "ecwmain/oil_power_plant.citystorespawninfo",
+  "StoreUri": "ecwmain/power_plant.store",
+  "StoreLiveryName": null,
+  "ItemUri": "ecwmain/fuel.item",
+  "Tier": 2,
+  "Demand": null,
+  "DemandMultiplier": 1.5,
+  "Price": null,
+  "PriceMultiplier": 1.1,
+  "Tag": null
+}

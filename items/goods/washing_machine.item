@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "aeafc1",
+  "MeshUri": "ecwmain/washing_machine_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

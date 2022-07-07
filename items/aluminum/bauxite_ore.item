@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "7a2312",
+  "MeshUri": "ecwmain/bauxite_ore_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

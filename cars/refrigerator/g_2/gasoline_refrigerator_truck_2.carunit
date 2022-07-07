@@ -1,0 +1,48 @@
+{
+  "Axles": [
+    {
+      "Uri": "base/old_wheel.caraxle",
+      "Offset": 0.92,
+      "HalfTrack": 0.36,
+      "Steered": true
+    },
+    {
+      "Uri": "base/double_old_wheel.caraxle",
+      "Offset": -0.36,
+      "HalfTrack": 0.34,
+      "Steered": false
+    },
+    {
+      "Uri": "base/double_old_wheel.caraxle",
+      "Offset": -0.76,
+      "HalfTrack": 0.34,
+      "Steered": false
+    }
+  ],
+  "AudioUri": "base/truck.caraudio",
+  "Type": "Gasoline",
+  "Length": null,
+  "VelocityLimit": 60.0,
+  "Power": 89.0,
+  "Weight": 2.5,
+  "Price": null,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Liveries": [
+    {
+      "MeshUri": "ecwmain/gasoline_refrigerator_truck_2.obj"
+    }
+  ],
+  "Coupling1Uri": null,
+  "Coupling2Uri": null,
+  "Submeshes": null,
+  "AnimationReferenceWheelRadius": null,
+  "ResearchUri": "base/gasoline_engine_2.research",
+  "Explosive": false,
+  "ExplosionForce": null,
+  "Tags": [
+    "gasoline"
+  ],
+  "Hidden": false
+}

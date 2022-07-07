@@ -1,0 +1,39 @@
+{
+  "Keyframes": {
+    "0": {
+      "Position": [-1, -0.8, -1],
+      "Rotation": [0, 0, 0],
+      "SizeX": 0.0,
+      "SizeZ": 0.0,
+      "ScaleY": 0.0
+    },
+    "0.5": {
+      "Position": [-1, -0.4, -1],
+      "Rotation": [0, 0, 0],
+      "SizeX": 2.5,
+      "SizeZ": 4,
+      "ScaleY": 1.0
+    },
+    "1": {
+      "Position": [-1, 0, -1],
+      "Rotation": [0, 0, 0],
+      "SizeX": 2.5,
+      "SizeZ": 4,
+      "ScaleY": 1.0
+    }
+  },
+  "Items": {
+    "base/coal.item": {
+      "MeshUri": "ecwmain/coal_big_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 210.0,
+  "TargetUri": "ecwmain/coal_big.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.1
+}

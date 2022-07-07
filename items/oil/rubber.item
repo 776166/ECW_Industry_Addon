@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "aeb09e",
+  "MeshUri": "ecwmain/rubber_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

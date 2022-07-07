@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "005d16",
+  "MeshUri": "ecwmain/advanced_circuit_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

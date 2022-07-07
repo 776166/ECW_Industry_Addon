@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "b6ada0",
+  "MeshUri": "ecwmain/computer_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

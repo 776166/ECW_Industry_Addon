@@ -1,0 +1,37 @@
+{
+  "ResearchUri": "ecwmain/agriculture.research",
+  "Size": [7, 3, 8],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/farm_1.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": [
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_1",
+          "Lights": null
+        }
+      ],
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": [
+            {
+              "MeshUri": null,
+              "MeshVariant": "arctic_night_1",
+              "Lights": null
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Price": 36500.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

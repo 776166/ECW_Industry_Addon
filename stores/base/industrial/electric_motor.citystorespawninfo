@@ -1,0 +1,12 @@
+{
+  "ParentUri": "ecwmain/aluminum_bar.citystorespawninfo",
+  "StoreUri": "base/industrial_2.store",
+  "StoreLiveryName": null,
+  "ItemUri": "ecwmain/electric_motor.item",
+  "Tier": 4,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": null,
+  "Tag": null
+}

@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "272982",
+  "MeshUri": "ecwmain/drinks_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

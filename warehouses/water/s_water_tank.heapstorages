@@ -1,0 +1,36 @@
+{
+  "Keyframes": {
+    "0": {
+      "Position": [0, 0.55, 0.8],
+      "SizeX": 0.2,
+      "SizeZ": 0.2,
+      "ScaleY": 0
+    },
+    "0.1": {
+      "Position": [0, 0.6, 0.8],
+      "SizeX": 0.2,
+      "SizeZ": 0.2,
+      "ScaleY": 0.7
+    },
+    "1": {
+      "Position": [0, 0.6, 0.8],
+      "SizeX": 0.2,
+      "SizeZ": 0.2,
+      "ScaleY": 7
+    }
+  },
+  "Items": {
+    "ecwmain/water.item": {
+      "MeshUri": "ecwmain/s_water.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 122.5,
+  "TargetUri": "ecwmain/s_water_tank.warehouse",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

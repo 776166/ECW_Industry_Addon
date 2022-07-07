@@ -1,0 +1,20 @@
+{
+  "MeshUri": null,
+  "Lifetime": [0.5, 3],
+  "SizeOverLifetimeMultiplier": 3.0,
+  "SizeOverLifetime": {
+    "0": 0.065,
+    "0.1": 0.15,
+    "1": 0.3
+  },
+  "ColorOverLifetime": {
+    "0": "ffffff"
+  },
+  "AlphaOverLifetime": {
+    "0": 1.0,
+    "0.04": 0.44,
+    "1": 0.0
+  },
+  "LegacyCurves": true,
+  "VelocityMultiplier": 0.3
+}

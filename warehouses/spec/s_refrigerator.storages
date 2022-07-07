@@ -1,0 +1,13 @@
+{
+  "Items": {
+    "ecwmain/drinks.item": null,
+    "ecwmain/fruits.item": null,
+    "ecwmain/vegetables.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 140.0,
+  "TargetUri": "ecwmain/s_refrigerator.warehouse",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

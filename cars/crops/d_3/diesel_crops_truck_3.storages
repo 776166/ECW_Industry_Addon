@@ -1,0 +1,11 @@
+{
+  "Items": {
+    "ecwmain/crops.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 25.0,
+  "TargetUri": "ecwmain/diesel_crops_truck_3.carunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

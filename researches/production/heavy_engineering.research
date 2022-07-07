@@ -1,0 +1,26 @@
+{
+  "ParentResearchUris": [
+    "ecwmain/engineering.research",
+    "ecwmain/iron_casting.research"
+  ],
+  "Tier": 6,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "ecwmain/cast_iron.item",
+      "Count": null,
+      "CountMultiplier": null
+    },
+    {
+      "Uri": "ecwmain/electric_motor.item",
+      "Count": null,
+      "CountMultiplier": null
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

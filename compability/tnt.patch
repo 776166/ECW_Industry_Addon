@@ -1,0 +1,852 @@
+{
+    "Commands": [
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_box_truck_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_box_truck_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_box_truck_2.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_1_box_semitrailer.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_1_box_trailer.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_1_box_trailer.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_2_box_trailer.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_dump_truck_1.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_flatbed_truck_1.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_flatbed_truck_1.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_flatbed_truck_2.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_1_dump_semitrailer.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_1_dump_trailer.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_1_flatbed_semitrailer.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_1_flatbed_trailer.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_1_flatbed_trailer.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_2_flatbed_trailer.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_flatbed_truck_1.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [3, 1, 4],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [3, 1, 4],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [3, 2, 4],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_flatbed_truck_1.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [3, 1, 3],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [3, 1, 3],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [3, 2, 3],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_flatbed_truck_2.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [3, 1, 3],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [3, 1, 3],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [3, 2, 3],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_1_flatbed_semitrailer.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [3, 1, 7],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [3, 1, 7],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [3, 2, 7],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_1_flatbed_trailer.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [3, 1, 5],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [3, 1, 5],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [3, 2, 5],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_1_flatbed_trailer.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [3, 1, 3],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [3, 1, 3],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [3, 2, 3],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_2_flatbed_trailer.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [3, 1, 3],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [3, 1, 3],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [3, 2, 3],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_tank_truck_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_tank_truck_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_tank_truck_2.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_1_tank_semitrailer.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/diesel_1_tank_trailer.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_1_tank_trailer.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "trucks_with_trailers/gasoline_2_tank_trailer.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/biofuel.item": null,
+			  "ecwmain/chemicals.item": null,
+			  "ecwmain/drinks.item": null,
+			  "ecwmain/fuel.item": null,
+			  "ecwmain/crude_oil.item": null,
+			  "ecwmain/sulfur.item": null,
+			  "ecwmain/water.item": null
+            }
+        },
+    ]
+}

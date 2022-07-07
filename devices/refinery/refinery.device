@@ -1,0 +1,86 @@
+{
+  "RecipeTargetUri": "ecwmain/refinery.recipetarget",
+  "Submeshes": null,
+  "Sounds": null,
+  "Smokes": [
+    {
+      "Uri": "base/alloy_smelter_device.smoke",
+      "Position": [-0.6, 2.85, 0]
+    },
+    {
+      "Uri": "base/alloy_smelter_device.smoke",
+      "Position": [-0.6, 2.85, 0.9]
+    },
+  ],
+  "ClippingPlanes": [
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [1.9, 0.225, 0],
+      "Rotation": [0, 90, 0],
+      "Scale": [0.4, 0.45, 1]
+    },
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [1.9, 0.225, 0],
+      "Rotation": [0, 90, 0],
+      "Scale": [0.4, 0.45, 1]
+    }
+  ],
+  "Conveyors": [
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightExtraShort",
+      "Position": [3, 0, 1],
+      "Rotation": "Rotate270",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightExtraShort",
+      "Position": [0, 0, 1],
+      "Rotation": "Rotate90",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": [4, 0, 1],
+      "Rotation": "Rotate90",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": [-1, 0, 1],
+      "Rotation": "Rotate270",
+      "Handle": true
+    }
+  ],
+  "ResearchUri": "ecwmain/oil_processing.research",
+  "Size": [4, 3, 3],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/refinery_device.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": null,
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": null
+        }
+      }
+    }
+  },
+  "Price": 48000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

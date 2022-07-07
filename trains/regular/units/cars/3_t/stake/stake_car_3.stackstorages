@@ -1,0 +1,62 @@
+{
+  "Position": [0, 0.564, 0],
+  "Rotation": [0, 0, 0],
+  "SizeX": 0.832,
+  "SizeZ": 3.32,
+  "Items": {
+    "base/wood_log.item": {
+      "MeshUri": "base/wood_log.obj",
+      "Resolution": [3, 2, 3],
+      "Spacing": [0.02, 0.02, 0.03],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/wood_plank.item": {
+      "MeshUri": "base/wood_plank.obj",
+      "Resolution": [3, 4, 3],
+      "Spacing": [0.02, 0.02, 0.03],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/wood_beam.item": {
+      "MeshUri": "base/wood_beam_item.obj",
+      "Resolution": [3, 2, 3],
+      "Spacing": [0.02, 0.02, 0.03],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/concrete_beam.item": {
+      "MeshUri": "base/concrete_beam_item.obj",
+      "Resolution": [3, 2, 3],
+      "Spacing": [0.02, 0.02, 0.03],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/steel_beam.item": {
+      "MeshUri": "base/steel_beam_item.obj",
+      "Resolution": [3, 2, 3],
+      "Spacing": [0.02, 0.02, 0.03],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/reinforced_concrete_beam.item": {
+      "MeshUri": "base/reinforced_concrete_beam_item.obj",
+      "Resolution": [3, 2, 3],
+      "Spacing": [0.02, 0.02, 0.03],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": 0.75,
+  "MaxWeight": 52.5,
+  "TargetUri": "ecwmain/stake_car_3.trainunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.75
+}

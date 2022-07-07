@@ -1,0 +1,11 @@
+{
+  "Items": {
+    "ecwmain/crops.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 3.5,
+  "TargetUri": "ecwmain/m_crops_field.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

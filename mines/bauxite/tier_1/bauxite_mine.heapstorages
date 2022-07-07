@@ -1,0 +1,39 @@
+{
+  "Keyframes": {
+    "0": {
+      "Position": [0, -0.6, 1.6],
+      "Rotation": [0, 0, 0],
+      "SizeX": 4.5,
+      "SizeZ": 1.4,
+      "ScaleY": 1
+    },
+    "0.2": {
+      "Position": [0, -0.4, 1.6],
+      "Rotation": [0, 0, 0],
+      "SizeX": 4.5,
+      "SizeZ": 1.4,
+      "ScaleY": 1
+    },
+    "1": {
+      "Position": [0, 0, 1.6],
+      "Rotation": [0, 0, 0],
+      "SizeX": 4.5,
+      "SizeZ": 1.4,
+      "ScaleY": 1
+    }
+  },
+  "Items": {
+    "ecwmain/bauxite_ore.item": {
+      "MeshUri": "ecwmain/bauxite_mine_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 100.0,
+  "TargetUri": "ecwmain/bauxite.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

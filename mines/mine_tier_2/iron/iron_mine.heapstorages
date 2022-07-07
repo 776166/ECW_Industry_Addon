@@ -1,0 +1,46 @@
+{
+  "Keyframes": {
+    "0": {
+      "Position": [1.955, 0.199, 1.945],
+      "Rotation": [0, 90, 0],
+      "SizeX": 0.0,
+      "SizeZ": 0.0,
+      "ScaleY": 0.0
+    },
+    "0.1": {
+      "Position": [1.955, 0.199, 1.945],
+      "Rotation": [0, 90, 0],
+      "SizeX": 2.653,
+      "SizeZ": 2.653,
+      "ScaleY": 0.5
+    },
+    "0.5": {
+      "Position": [1.955, 0.422, 1.945],
+      "Rotation": [0, 90, 0],
+      "SizeX": 2.719,
+      "SizeZ": 2.719,
+      "ScaleY": 1.0
+    },
+    "1": {
+      "Position": [1.955, 0.65, 1.945],
+      "Rotation": [0, 90, 0],
+      "SizeX": 2.763,
+      "SizeZ": 2.763,
+      "ScaleY": 1.0
+    }
+  },
+  "Items": {
+    "base/iron_ore.item": {
+      "MeshUri": "base/iron_ore_item_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 200.0,
+  "TargetUri": "ecwmain/iron_2.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.5
+}

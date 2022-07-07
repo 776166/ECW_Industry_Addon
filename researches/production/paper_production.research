@@ -1,0 +1,20 @@
+{
+  "ParentResearchUris": [
+    "base/wood_processing.research"
+  ],
+  "Tier": 3,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "base/wood_log.item",
+      "Count": null,
+      "CountMultiplier": null
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

@@ -1,0 +1,38 @@
+{
+  "Position": [0, 0, 0],
+  "Rotation": [0, 90, 0],
+  "SizeX": 7.4,
+  "SizeZ": 11.4,
+  "Items": {
+    "ecwmain/crude_oil.item": {
+      "MeshUri": "ecwmain/s_oil_tank_crude.obj",
+      "Resolution": [2, 5, 3],
+      "Spacing": [0.6, 0.2, 0.6],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/fuel.item": {
+      "MeshUri": "ecwmain/s_oil_tank_fuel.obj",
+      "Resolution": [2, 5, 3],
+      "Spacing": [0.6, 0.2, 0.6],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/biofuel.item": {
+      "MeshUri": "ecwmain/s_oil_tank_biofuel.obj",
+      "Resolution": [2, 5, 3],
+      "Spacing": [0.6, 0.2, 0.6],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": 0.25,
+  "MaxWeight": 420.0,
+  "TargetUri": "ecwmain/l_oil_tank.warehouse",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.25
+}

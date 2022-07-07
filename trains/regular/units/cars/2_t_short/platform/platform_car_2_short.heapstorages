@@ -1,0 +1,63 @@
+{
+  "Keyframes": {
+    "0": {
+      "Position": [0, 0.554, 0],
+      "Rotation": [0, 0, 0],
+      "SizeX": 0.0,
+      "SizeZ": 0.0,
+      "ScaleY": 0.0
+    },
+    "0.2": {
+      "Position": [0, 0.554, 0],
+      "Rotation": [0, 0, 0],
+      "SizeX": 0.721,
+      "SizeZ": 1.907,
+      "ScaleY": 0.5
+    },
+    "1": {
+      "Position": [0, 0.72, 0],
+      "Rotation": [0, 0, 0],
+      "SizeX": 0.721,
+      "SizeZ": 1.907,
+      "ScaleY": 1.0
+    }
+  },
+  "Items": {
+    "base/coal.item": {
+      "MeshUri": "base/coal_item_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/iron_ore.item": {
+      "MeshUri": "base/iron_ore_item_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/copper_ore.item": {
+      "MeshUri": "base/copper_ore_item_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/aluminum.item": {
+      "MeshUri": "ecwmain/aluminum_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/bauxite_ore.item": {
+      "MeshUri": "ecwmain/bauxite_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 21,
+  "TargetUri": "ecwmain/platform_car_2_short.trainunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

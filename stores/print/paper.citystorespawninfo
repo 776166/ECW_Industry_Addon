@@ -1,0 +1,12 @@
+{
+  "ParentUri": "base/wood_log.citystorespawninfo",
+  "StoreUri": "ecwmain/print_house.store",
+  "StoreLiveryName": null,
+  "ItemUri": "ecwmain/paper.item",
+  "Tier": 2,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": null,
+  "Tag": null
+}

@@ -1,0 +1,14 @@
+{
+  "MeshUri": "ecwmain/mono_bogie.obj",
+  "AxleOffset": 0.2,
+  "Axles": [
+    {
+      "Uri": null,
+      "Offset": 0.2
+    },
+    {
+      "Uri": null,
+      "Offset": -0.2
+    }
+  ]
+}

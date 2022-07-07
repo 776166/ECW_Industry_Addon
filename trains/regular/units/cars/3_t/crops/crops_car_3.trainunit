@@ -1,0 +1,46 @@
+{
+  "Smokes": null,
+  "Bogies": [
+    {
+      "Uri": "base/double_axle.trainbogie",
+      "Offset": 1.2,
+      "Anchor1": true,
+      "Anchor2": false,
+      "Secondary": false
+    },
+    {
+      "Uri": "base/double_axle.trainbogie",
+      "Offset": -1.2,
+      "Anchor1": false,
+      "Anchor2": true,
+      "Secondary": false
+    }
+  ],
+  "AudioUri": "base/wagon.trainaudio",
+  "Cab": null,
+  "Type": "Unpowered",
+  "Length": null,
+  "VelocityLimit": null,
+  "Power": null,
+  "Weight": 21.0,
+  "Price": null,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Liveries": [
+    {
+      "MeshUri": "ecwmain/rounded_hopper_car_2.obj"
+    }
+  ],
+  "Coupling1Uri": "base/common.traincoupling",
+  "Coupling2Uri": "base/common.traincoupling",
+  "Submeshes": null,
+  "AnimationReferenceWheelRadius": null,
+  "ResearchUri": "ecwmain/railcars_3.research",
+  "Explosive": false,
+  "ExplosionForce": null,
+  "Tags": [
+    "diesel"
+  ],
+  "Hidden": false
+}

@@ -1,0 +1,21 @@
+{
+  "ParentResearchUris": [
+    "base/woodworking_2.research",
+    "ecwmain/agriculture.research"
+  ],
+  "Tier": 7,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "base/advanced_wood_frame.item",
+      "Count": null,
+      "CountMultiplier": 0.8
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

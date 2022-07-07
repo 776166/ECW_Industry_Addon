@@ -1,0 +1,20 @@
+{
+  "ParentResearchUris": [
+    "ecwmain/monorail.research"
+  ],
+  "Tier": 7,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "ecwmain/dural_plate.item",
+      "Count": null,
+      "CountMultiplier": null
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

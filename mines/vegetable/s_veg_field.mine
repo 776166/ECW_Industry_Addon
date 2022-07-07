@@ -1,0 +1,30 @@
+{
+  "OutputInterval": 5.55,
+  "RequiresDeposit": false,
+  "Spacing": 0,
+  "Sounds": null,
+  "Smokes": null,
+  "ResearchUri": "ecwmain/agriculture.research",
+  "Size": [6, 1, 6],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/s_veg_field.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": null,
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": null
+        }
+      }
+    }
+  },
+  "Price": 9000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

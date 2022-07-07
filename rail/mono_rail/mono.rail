@@ -1,0 +1,40 @@
+{
+  "ElectrificationPrice": 0.0,
+  "Height": 0.2,
+  "PoleMeshUri": "base/regular_rail_pole.obj",
+  "WireHeight": 0.1,
+  "LofterIngredients": [
+    {
+      "Mode": "Loft",
+      "MeshUri": "ecwmain/mono_rail_1.obj",
+      "Length": 0.45
+    },
+    {
+      "Mode": "Repeat",
+      "MeshUri": "ecwmain/mono_rail_2.obj",
+      "Length": 0.9
+    },
+    {
+      "Mode": "Loft",
+      "MeshUri": "ecwmain/mono_rail_3.obj",
+      "Length": 0.45
+    }
+  ],
+  "EmbankmentLofterIngredients": [
+    {
+      "Mode": "LoftUnoptimized",
+      "MeshUri": "ecwmain/mono_rail_embankment.obj",
+      "Length": 0.8
+    }
+  ],
+  "Meshes": {
+    "StraightCap": "ecwmain/mono_rail_straight_cap.obj",
+    "DiagonalCap": "ecwmain/mono_rail_diagonal_cap.obj"
+  },
+  "ResearchUri": "ecwmain/monorail.research",
+  "Price": 650.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

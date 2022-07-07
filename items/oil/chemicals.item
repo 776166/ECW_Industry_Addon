@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "405690",
+  "MeshUri": "ecwmain/chemicals_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

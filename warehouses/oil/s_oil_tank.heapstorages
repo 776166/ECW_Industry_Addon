@@ -1,0 +1,42 @@
+{
+  "Keyframes": {
+    "0": {
+      "Position": [0, 0, 0],
+      "SizeX": 3.4,
+      "SizeZ": 3.4,
+      "ScaleY": 1
+    },
+    "1": {
+      "Position": [0, 1.3, 0],
+      "SizeX": 3.4,
+      "SizeZ": 3.4,
+      "ScaleY": 1
+    }
+  },
+  "Items": {
+    "ecwmain/crude_oil.item": {
+      "MeshUri": "ecwmain/s_oil_tank_crude.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/fuel.item": {
+      "MeshUri": "ecwmain/s_oil_tank_fuel.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/biofuel.item": {
+      "MeshUri": "ecwmain/s_oil_tank_biofuel.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 105,
+  "TargetUri": "ecwmain/s_oil_tank.warehouse",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

@@ -1,0 +1,12 @@
+{
+  "ParentUri": "base/radio.citystorespawninfo",
+  "StoreUri": "base/electronics_2.store",
+  "StoreLiveryName": null,
+  "ItemUri": "ecwmain/tape_recorder.item",
+  "Tier": 5,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": null,
+  "Tag": null
+}

@@ -1,0 +1,72 @@
+{
+  "Keyframes": {
+    "0": {
+      "Position": [0, -0.8, 0],
+      "SizeX": 5.2,
+      "SizeZ": 4.2,
+      "ScaleY": 1
+    },
+    "1": {
+      "Position": [0, 0, 0],
+      "SizeX": 5.2,
+      "SizeZ": 4.2,
+      "ScaleY": 1
+    }
+  },
+  "Items": {
+    "ecwmain/bauxite_ore.item": {
+      "MeshUri": "ecwmain/raw_bauxite.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/clay.item": {
+      "MeshUri": "ecwmain/raw_clay.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/coal.item": {
+      "MeshUri": "ecwmain/raw_coal.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/copper_ore.item": {
+      "MeshUri": "ecwmain/raw_copper.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/iron_ore.item": {
+      "MeshUri": "ecwmain/raw_iron.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/sand.item": {
+      "MeshUri": "ecwmain/raw_sand.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/sulfur.item": {
+      "MeshUri": "ecwmain/raw_sulfur.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/saw_dust.item": {
+      "MeshUri": "ecwmain/raw_saw_dust.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": 0.25,
+  "MaxWeight": 420,
+  "TargetUri": "ecwmain/raw_spec.warehouse",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.25
+}

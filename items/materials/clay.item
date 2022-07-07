@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "a86550",
+  "MeshUri": "ecwmain/clay_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

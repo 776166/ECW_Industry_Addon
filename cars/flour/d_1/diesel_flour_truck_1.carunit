@@ -1,0 +1,42 @@
+{
+  "Axles": [
+    {
+      "Uri": "base/old_wheel_red.caraxle",
+      "Offset": 0.569,
+      "HalfTrack": 0.38,
+      "Steered": true
+    },
+    {
+      "Uri": "base/double_old_wheel_red.caraxle",
+      "Offset": -0.563,
+      "HalfTrack": 0.33,
+      "Steered": false
+    }
+  ],
+  "AudioUri": "base/truck.caraudio",
+  "Type": "Diesel",
+  "Length": null,
+  "VelocityLimit": 70.0,
+  "Power": 120.0,
+  "Weight": 3.0,
+  "Price": null,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Liveries": [
+    {
+      "MeshUri": "ecwmain/diesel_flour_truck_1.obj"
+    }
+  ],
+  "Coupling1Uri": null,
+  "Coupling2Uri": null,
+  "Submeshes": null,
+  "AnimationReferenceWheelRadius": null,
+  "ResearchUri": "base/diesel_engine.research",
+  "Explosive": false,
+  "ExplosionForce": null,
+  "Tags": [
+    "diesel"
+  ],
+  "Hidden": false
+}

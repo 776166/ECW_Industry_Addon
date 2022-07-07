@@ -1,0 +1,17 @@
+{
+  "Items": {
+    "ecwmain/biofuel.item": null,
+    "ecwmain/chemicals.item": null,
+    "ecwmain/drinks.item": null,
+    "ecwmain/fuel.item": null,
+    "ecwmain/crude_oil.item": null,
+    "ecwmain/sulfur.item": null,
+    "ecwmain/water.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 34.0,
+  "TargetUri": "ecwmain/tank_semi_trailer_1.carunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

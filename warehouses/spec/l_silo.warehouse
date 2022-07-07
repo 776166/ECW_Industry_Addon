@@ -1,0 +1,25 @@
+{
+  "ResearchUri": "ecwmain/agriculture_2.research",
+  "Size": [10, 5, 3],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/l_silo.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": null,
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": null,
+        }
+      }
+    }
+  },
+  "Price": 64000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

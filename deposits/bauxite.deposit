@@ -1,0 +1,8 @@
+{
+  "ItemUri": "ecwmain/bauxite_ore.item",
+  "TintColor": "85392a",
+  "RadiusMultiplier": 1.5,
+  "CapacityMultiplier": null,
+  "DecorationUris": [],
+  "Tier": 1
+}

@@ -1,0 +1,31 @@
+{
+  "Sections": [
+    {
+      "Count": null,
+      "MinCount": null,
+      "MaxCount": 1,
+      "Units": [
+        {
+          "Uri": "ecwmain/mono_engine_a_2.trainunit",
+          "Flipped": false
+        }
+      ]
+    },
+    {
+      "Count": 0,
+      "MinCount": 0,
+      "MaxCount": 2,
+      "Units": [
+        {
+          "Uri": "ecwmain/mono_engine_b_2.trainunit",
+          "Flipped": false
+        }
+      ]
+    }
+  ],
+  "ResearchUri": "ecwmain/monorail_heavy.research",
+  "Tags": [
+    "mono"
+  ],
+  "Hidden": false
+}

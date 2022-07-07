@@ -1,0 +1,46 @@
+{
+  "Smokes": null,
+  "Bogies": [
+    {
+      "Uri": "ecwmain/mono_bogie.trainbogie",
+      "Offset": 0.8,
+      "Anchor1": true,
+      "Anchor2": false,
+      "Secondary": false
+    },
+    {
+      "Uri": "ecwmain/mono_bogie.trainbogie",
+      "Offset": -0.8,
+      "Anchor1": false,
+      "Anchor2": true,
+      "Secondary": false
+    }
+  ],
+  "AudioUri": "base/electric.trainaudio",
+  "Cab": "Front",
+  "Type": "Diesel",
+  "Length": 3,
+  "VelocityLimit": 320.0,
+  "Power": 10000,
+  "Weight": 85.0,
+  "Price": null,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Liveries": [
+    {
+      "MeshUri": "ecwmain/mono_engine_a_2.obj"
+    }
+  ],
+  "Coupling1Uri": "base/common.traincoupling",
+  "Coupling2Uri": "base/common.traincoupling",
+  "Submeshes": null,
+  "AnimationReferenceWheelRadius": null,
+  "ResearchUri": "ecwmain/monorail_heavy.research",
+  "Explosive": false,
+  "ExplosionForce": null,
+  "Tags": [
+    "mono"
+  ],
+  "Hidden": true
+}

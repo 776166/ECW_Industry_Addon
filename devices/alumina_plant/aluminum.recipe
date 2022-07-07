@@ -1,0 +1,21 @@
+{
+  "TargetUri": "ecwmain/alumina_plant_device.recipetarget",
+  "Duration": 10.0,
+  "InputItems": [
+    {
+      "Uri": "ecwmain/bauxite_ore.item",
+      "Count": 5.0
+    },
+    {
+      "Uri": "ecwmain/water.item",
+      "Count": 10.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/aluminum.item",
+      "Count": 5.0
+    }
+  ],
+  "ResearchUri": "ecwmain/aluminum_production.research"
+}

@@ -1,0 +1,140 @@
+{
+  "Rails": [
+    {
+      "DespawnConnectionIndex": 1,
+      "SpawnConnectionIndex": null,
+      "Uri": "ecwmain/mono.rail",
+      "RailType": "Straight",
+      "Position": [3, 0, 2],
+      "Rotation": "Rotate0",
+      "Handle": false,
+      "DisallowSignals": true
+    },
+    {
+      "DespawnConnectionIndex": null,
+      "SpawnConnectionIndex": null,
+      "Uri": "ecwmain/mono.rail",
+      "RailType": "Straight",
+      "Position": [3, 0, 3],
+      "Rotation": "Rotate0",
+      "Handle": false,
+      "DisallowSignals": true
+    },
+    {
+      "DespawnConnectionIndex": null,
+      "SpawnConnectionIndex": null,
+      "Uri": "ecwmain/mono.rail",
+      "RailType": "Straight",
+      "Position": [3, 0, 4],
+      "Rotation": "Rotate0",
+      "Handle": false,
+      "DisallowSignals": true
+    },
+    {
+      "DespawnConnectionIndex": null,
+      "SpawnConnectionIndex": null,
+      "Uri": "ecwmain/mono.rail",
+      "RailType": "Straight",
+      "Position": [3, 0, 5],
+      "Rotation": "Rotate0",
+      "Handle": false,
+      "DisallowSignals": true
+    },
+    {
+      "DespawnConnectionIndex": null,
+      "SpawnConnectionIndex": null,
+      "Uri": "ecwmain/mono.rail",
+      "RailType": "Straight",
+      "Position": [3, 0, 6],
+      "Rotation": "Rotate0",
+      "Handle": false,
+      "DisallowSignals": true
+    },
+    {
+      "DespawnConnectionIndex": null,
+      "SpawnConnectionIndex": null,
+      "Uri": "ecwmain/mono.rail",
+      "RailType": "Straight",
+      "Position": [3, 0, 7],
+      "Rotation": "Rotate0",
+      "Handle": false,
+      "DisallowSignals": true
+    },
+    {
+      "DespawnConnectionIndex": null,
+      "SpawnConnectionIndex": null,
+      "Uri": "ecwmain/mono.rail",
+      "RailType": "Straight",
+      "Position": [3, 0, 8],
+      "Rotation": "Rotate0",
+      "Handle": false,
+      "DisallowSignals": true
+    },
+    {
+      "DespawnConnectionIndex": null,
+      "SpawnConnectionIndex": 0,
+      "Uri": "ecwmain/mono.rail",
+      "RailType": "Straight",
+      "Position": [3, 0, 9],
+      "Rotation": "Rotate0",
+      "Handle": false,
+      "DisallowSignals": true
+    },
+    {
+      "DespawnConnectionIndex": null,
+      "SpawnConnectionIndex": null,
+      "Uri": "ecwmain/mono.rail",
+      "RailType": "StraightCap",
+      "Position": [3, 0, 10],
+      "Rotation": "Rotate0",
+      "Handle": true,
+      "DisallowSignals": false
+    }
+  ],
+  "ClippingPlanes": [
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [1, 0.85, 2.3],
+      "Rotation": [0, 0, 0],
+      "Scale": [1.8, 1.5, 1]
+    }
+  ],
+  "ResearchUri": "ecwmain/monorail.research",
+  "Tags": [
+    "mono"
+  ],
+  "Size": [6, 5, 10],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/mono_depot.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": [
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_1",
+          "Lights": null
+        }
+      ],
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": [
+            {
+              "MeshUri": null,
+              "MeshVariant": "arctic_night_1",
+              "Lights": null
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Price": 51500.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

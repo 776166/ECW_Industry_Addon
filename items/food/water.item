@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "4081aa",
+  "MeshUri": "ecwmain/water_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

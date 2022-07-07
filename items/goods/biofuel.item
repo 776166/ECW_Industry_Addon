@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "0e8309",
+  "MeshUri": "ecwmain/biofuel_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

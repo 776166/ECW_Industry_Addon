@@ -1,0 +1,11 @@
+{
+  "Items": {
+    "ecwmain/water.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 70,
+  "TargetUri": "ecwmain/s_water_pump.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

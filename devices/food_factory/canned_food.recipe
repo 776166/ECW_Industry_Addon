@@ -1,0 +1,25 @@
+{
+  "TargetUri": "ecwmain/food_factory.recipetarget",
+  "Duration": 6.0,
+  "InputItems": [
+    {
+      "Uri": "ecwmain/vegetables.item",
+      "Count": 6.0
+    },
+    {
+      "Uri": "base/steel_bar.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "ecwmain/water.item",
+      "Count": 3.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/canned_food.item",
+      "Count": 6.0
+    }
+  ],
+  "ResearchUri": "ecwmain/food_production_2.research"
+}

@@ -1,0 +1,16 @@
+{
+  "Items": {
+    "ecwmain/biofuel.item": null,
+    "ecwmain/chemicals.item": null,
+    "ecwmain/fuel.item": null,
+    "ecwmain/crude_oil.item": null,
+    "ecwmain/sulfur.item": null,
+    "ecwmain/water.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 40.0,
+  "TargetUri": "ecwmain/tank_car_2.trainunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

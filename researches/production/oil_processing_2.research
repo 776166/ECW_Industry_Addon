@@ -1,0 +1,25 @@
+{
+  "ParentResearchUris": [
+    "ecwmain/oil_processing.research"
+  ],
+  "Tier": 5,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "ecwmain/plastic.item",
+      "Count": null,
+      "CountMultiplier": 0.8
+    },
+    {
+      "Uri": "ecwmain/chemicals.item",
+      "Count": null,
+      "CountMultiplier": 0.8
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "a6a68f",
+  "MeshUri": "ecwmain/flour_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

@@ -1,0 +1,12 @@
+{
+  "ParentUri": "base/iron_bar.citystorespawninfo",
+  "StoreUri": "base/industrial_2.store",
+  "StoreLiveryName": null,
+  "ItemUri": "ecwmain/cast_iron.item",
+  "Tier": 2,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": null,
+  "Tag": null
+}

@@ -1,0 +1,17 @@
+{
+  "TargetUri": "ecwmain/crops_mill.recipetarget",
+  "Duration": 5.0,
+  "InputItems": [
+    {
+      "Uri": "ecwmain/crops.item",
+      "Count": 1.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/biofuel.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "ecwmain/food_production.research"
+}

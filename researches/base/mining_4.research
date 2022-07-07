@@ -1,0 +1,21 @@
+{
+  "ParentResearchUris": [
+    "ecwmain/mining_3.research",
+    "ecwmain/engineering.research"
+  ],
+  "Tier": 8,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "ecwmain/electric_motor.item",
+      "Count": null,
+      "CountMultiplier": null
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

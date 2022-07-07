@@ -1,0 +1,21 @@
+{
+  "TargetUri": "ecwmain/chemical_factory_device.recipetarget",
+  "Duration": 6.0,
+  "InputItems": [
+    {
+      "Uri": "ecwmain/paint.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "ecwmain/rubber.item",
+      "Count": 4.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/ducks.item",
+      "Count": 4.0
+    }
+  ],
+  "ResearchUri": "ecwmain/oil_processing_2.research"
+}

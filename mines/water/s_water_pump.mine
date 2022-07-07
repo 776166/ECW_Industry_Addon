@@ -1,0 +1,31 @@
+{
+  "OutputInterval": 4,
+  "RequiresDeposit": true,
+  "Spacing": 1,
+  "Submeshes": null,
+  "Sounds": null,
+  "Smokes": null,
+  "ResearchUri": "ecwmain/agriculture.research",
+  "Size": [3, 3, 2],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/s_water_pump.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": null,
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": null
+        }
+      }
+    }
+  },
+  "Price": 22000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

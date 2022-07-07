@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "9b9d92",
+  "MeshUri": "ecwmain/fabric_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

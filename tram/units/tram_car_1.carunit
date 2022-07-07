@@ -1,0 +1,43 @@
+{
+  "Axles": [
+    {
+      "Uri": "ecwmain/tram_axle.caraxle",
+      "Offset": 0.55,
+      "HalfTrack": 0.19,
+      "Steered": false
+    },
+    {
+      "Uri": "ecwmain/tram_axle.caraxle",
+      "Offset": -0.55,
+      "HalfTrack": 0.19,
+      "Steered": false
+    }
+  ],
+  "AudioUri": "ecwmain/tram.caraudio",
+  "Type": "Electric",
+  "Length": null,
+  "VelocityLimit": 40.0,
+  "Power": 325.0,
+  "Weight": 7,
+  "Price": null,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Liveries": [
+    {
+      "MeshUri": "ecwmain/tram_car_1.obj"
+    }
+  ],
+  "Coupling1Uri": null,
+  "Coupling2Uri": null,
+  "Submeshes": null,
+  "AnimationReferenceWheelRadius": null,
+  "ResearchUri": "base/roads.research",
+  "Explosive": false,
+  "ExplosionForce": null,
+  "Tags": [
+    "tram",
+    "electric"
+  ],
+  "Hidden": true
+}

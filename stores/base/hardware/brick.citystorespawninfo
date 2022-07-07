@@ -1,0 +1,12 @@
+{
+  "ParentUri": "ecwmain/clay.citystorespawninfo",
+  "StoreUri": "base/hardware.store",
+  "StoreLiveryName": null,
+  "ItemUri": "ecwmain/brick.item",
+  "Tier": 1,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": null,
+  "Tag": null
+}

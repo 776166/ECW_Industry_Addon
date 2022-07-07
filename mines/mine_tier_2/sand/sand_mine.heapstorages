@@ -1,0 +1,46 @@
+{
+  "Keyframes": {
+    "0": {
+      "Position": [1.058, -0.933, -1.568],
+      "Rotation": [0, 0, 0],
+      "SizeX": 0.0,
+      "SizeZ": 0.0,
+      "ScaleY": 0.5
+    },
+    "0.1": {
+      "Position": [1.058, -0.607, -1.568],
+      "Rotation": [0, 0, 0],
+      "SizeX": 4.7,
+      "SizeZ": 3.75,
+      "ScaleY": 1.0
+    },
+    "0.5": {
+      "Position": [1.058, -0.282, -1.568],
+      "Rotation": [0, 0, 0],
+      "SizeX": 4.7,
+      "SizeZ": 3.75,
+      "ScaleY": 1.0
+    },
+    "1": {
+      "Position": [1.058, 0.044, -1.568],
+      "Rotation": [0, 0, 0],
+      "SizeX": 4.7,
+      "SizeZ": 3.75,
+      "ScaleY": 1.0
+    }
+  },
+  "Items": {
+    "base/sand.item": {
+      "MeshUri": "base/sand_mine_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 200.0,
+  "TargetUri": "ecwmain/sand_2.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.5
+}

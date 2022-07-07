@@ -1,0 +1,215 @@
+{
+  "RecipeTargetUri": "ecwmain/food_factory.recipetarget",
+  "Submeshes": [
+    {
+      "MeshUri": "ecwmain/food_factory_rotor.obj",
+      "DefaultAnimation": {
+        "PositionY": {
+          "0": 1.85
+        },
+        "PositionZ": {
+          "0": -1
+        },
+        "RotationY": {
+          "0": 0,
+	    "4": 360
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/food_factory_rotor.obj",
+      "DefaultAnimation": {
+        "PositionY": {
+          "0": 1.85
+        },
+        "PositionZ": {
+          "0": 0.6
+        },
+        "RotationY": {
+          "0": 0,
+	    "4": 360
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/food_factory_rotor.obj",
+      "DefaultAnimation": {
+        "PositionY": {
+          "0": 1.85
+        },
+        "PositionZ": {
+          "0": 2.2
+        },
+        "RotationY": {
+          "0": 0,
+	    "4": 360
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/food_factory_rotor.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -2,
+        },
+        "PositionY": {
+          "0": 1.85
+        },
+        "PositionZ": {
+          "0": -1,
+        },
+        "RotationY": {
+          "0": 0,
+	    "4": 360,
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/food_factory_rotor.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -2,
+        },
+        "PositionY": {
+          "0": 1.85
+        },
+        "PositionZ": {
+          "0": 0.6,
+        },
+        "RotationY": {
+          "0": 0,
+	    "4": 360,
+        }
+      }
+    },
+],
+  "Sounds": null,
+  "Smokes": null,
+  "ClippingPlanes": [
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [-1.5, 0.225, 3.4],
+      "Rotation": [0, 0, 0],
+      "Scale": [0.4, 0.45, 1]
+    },
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [2.9, 0.225, 1],
+      "Rotation": [0, 90, 0],
+      "Scale": [0.4, 0.45, 1]
+    },
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [2.9, 0.225, 2],
+      "Rotation": [0, 90, 0],
+      "Scale": [0.4, 0.45, 1]
+    },
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [2.9, 0.225, 3],
+      "Rotation": [0, 90, 0],
+      "Scale": [0.4, 0.45, 1]
+    }
+  ],
+  "Conveyors": [
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightExtraShort",
+      "Position": [1, 0, 6],
+      "Rotation": "Rotate180",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightExtraShort",
+      "Position": [5, 0, 4],
+      "Rotation": "Rotate270",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightExtraShort",
+      "Position": [5, 0, 5],
+      "Rotation": "Rotate270",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightExtraShort",
+      "Position": [5, 0, 6],
+      "Rotation": "Rotate270",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": [1, 0, 7],
+      "Rotation": "Rotate0",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": [6, 0, 4],
+      "Rotation": "Rotate90",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": [6, 0, 5],
+      "Rotation": "Rotate90",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": [6, 0, 6],
+      "Rotation": "Rotate90",
+      "Handle": true
+    }
+  ],
+  "ResearchUri": "ecwmain/food_production.research",
+  "Size": [6, 3, 7],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/food_factory_device.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": [
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_1",
+          "Lights": null
+        }
+      ],
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": [
+            {
+              "MeshUri": null,
+              "MeshVariant": "arctic_night_1",
+              "Lights": null
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Price": 108500.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

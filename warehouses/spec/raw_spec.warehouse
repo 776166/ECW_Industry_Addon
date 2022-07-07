@@ -1,0 +1,25 @@
+{
+  "ResearchUri": "ecwmain/storage_spec.research",
+  "Size": [6, 2, 5],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/raw_spec.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": null,
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": null,
+        }
+      }
+    }
+  },
+  "Price": 20500.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

@@ -1,0 +1,46 @@
+{
+  "Smokes": null,
+  "Bogies": [
+    {
+      "Uri": "ecwmain/mono_bogie.trainbogie",
+      "Offset": 0.8,
+      "Anchor1": true,
+      "Anchor2": false,
+      "Secondary": false
+    },
+    {
+      "Uri": "ecwmain/mono_bogie.trainbogie",
+      "Offset": -0.8,
+      "Anchor1": false,
+      "Anchor2": true,
+      "Secondary": false
+    }
+  ],
+  "AudioUri": null,
+  "Cab": null,
+  "Type": "Unpowered",
+  "Length": 3,
+  "VelocityLimit": null,
+  "Power": null,
+  "Weight": 16.0,
+  "Price": null,
+  "PriceMultiplier": 1.2,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Liveries": [
+    {
+      "MeshUri": "ecwmain/mono_stake_car.obj"
+    }
+  ],
+  "Coupling1Uri": "base/common.traincoupling",
+  "Coupling2Uri": "base/common.traincoupling",
+  "Submeshes": null,
+  "AnimationReferenceWheelRadius": null,
+  "ResearchUri": "ecwmain/monorail_heavy.research",
+  "Explosive": false,
+  "ExplosionForce": null,
+  "Tags": [
+    "mono"
+  ],
+  "Hidden": false
+}

@@ -1,0 +1,21 @@
+{
+  "TargetUri": "ecwmain/paper_mill.recipetarget",
+  "Duration": 8.0,
+  "InputItems": [
+    {
+      "Uri": "ecwmain/saw_dust.item",
+      "Count": 2.0
+    },
+    {
+      "Uri": "ecwmain/water.item",
+      "Count": 10.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/paper.item",
+      "Count": 4.0
+    }
+  ],
+  "ResearchUri": "ecwmain/paper_production.research"
+}

@@ -1,0 +1,22 @@
+{
+  "Position": [1.8, 0, 0.1],
+  "Rotation": [0, 0, 0],
+  "SizeX": 1.8,
+  "SizeZ": 6.2,
+  "Items": {
+    "ecwmain/water.item": {
+      "MeshUri": "ecwmain/l_water.obj",
+      "Resolution": [1, 3, 3],
+      "Spacing": [0, 0.12, 0.4],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 210,
+  "TargetUri": "ecwmain/l_water_pump.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

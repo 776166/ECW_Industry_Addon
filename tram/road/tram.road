@@ -1,0 +1,34 @@
+{
+  "Height": 0.045,
+  "LofterIngredients": [
+    {
+      "Mode": "Loft",
+      "MeshUri": "ecwmain/tram_road_1.obj",
+      "Length": 0.15
+    },
+    {
+      "Mode": "Bend",
+      "MeshUri": "ecwmain/tram_road_2.obj",
+      "Length": 1
+    }
+  ],
+  "EmbankmentLofterIngredients": [
+    {
+      "Mode": "LoftUnoptimized",
+      "MeshUri": "base/regular_road_embankment_1.obj",
+      "Length": 0.8
+    }
+  ],
+  "Meshes": {
+    "TurnRight": "ecwmain/tram_road_turn_right.obj",
+    "TJunction": "ecwmain/tram_road_t_junction.obj",
+    "XJunction": "ecwmain/tram_road_x_junction.obj",
+    "Cap": "ecwmain/tram_road_cap.obj"
+  },
+  "ResearchUri": "base/roads.research",
+  "Price": 325.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": true
+}

@@ -1,0 +1,12 @@
+{
+  "Items": {
+    "ecwmain/crops.item": null,
+    "ecwmain/flour.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": 0.25,
+  "MaxWeight": 420.0,
+  "TargetUri": "ecwmain/l_silo.warehouse",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.25
+}

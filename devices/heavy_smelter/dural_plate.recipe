@@ -1,0 +1,25 @@
+{
+  "TargetUri": "ecwmain/heavy_smelter.recipetarget",
+  "Duration": 10.0,
+  "InputItems": [
+    {
+      "Uri": "base/coal.item",
+      "Count": 4.0
+    },
+    {
+      "Uri": "ecwmain/aluminum.item",
+      "Count": 10.0
+    },
+    {
+      "Uri": "base/copper_ore.item",
+      "Count": 1.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/dural_plate.item",
+      "Count": 10.0
+    }
+  ],
+  "ResearchUri": "ecwmain/aluminum_processing.research"
+}

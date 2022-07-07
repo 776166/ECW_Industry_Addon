@@ -1,0 +1,14 @@
+{
+  "Items": {
+    "ecwmain/canned_food.item": null,
+    "ecwmain/drinks.item": null,
+    "ecwmain/fruits.item": null,
+    "ecwmain/vegetables.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 34.0,
+  "TargetUri": "ecwmain/refrigerator_semi_trailer_1.carunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

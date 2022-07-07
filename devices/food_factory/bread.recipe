@@ -1,0 +1,21 @@
+{
+  "TargetUri": "ecwmain/food_factory.recipetarget",
+  "Duration": 6.0,
+  "InputItems": [
+    {
+      "Uri": "ecwmain/flour.item",
+      "Count": 6.0
+    },
+    {
+      "Uri": "ecwmain/water.item",
+      "Count": 1.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/bread.item",
+      "Count": 6.0
+    }
+  ],
+  "ResearchUri": "ecwmain/food_production.research"
+}

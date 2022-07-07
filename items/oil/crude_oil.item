@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "31389f",
+  "MeshUri": "ecwmain/crude_oil_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

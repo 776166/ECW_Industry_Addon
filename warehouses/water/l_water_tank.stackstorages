@@ -1,0 +1,22 @@
+{
+  "Position": [0, 0, 0],
+  "Rotation": [0, 90, 0],
+  "SizeX": 5.4,
+  "SizeZ": 5.4,
+  "Items": {
+    "ecwmain/water.item": {
+      "MeshUri": "ecwmain/l_water_tank_2.obj",
+      "Resolution": [2, 1, 3],
+      "Spacing": [0.6, 0, 0.6],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": 0.25,
+  "MaxWeight": 420.0,
+  "TargetUri": "ecwmain/l_water_tank.warehouse",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.25
+}

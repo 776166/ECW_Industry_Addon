@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "0c5321",
+  "MeshUri": "ecwmain/vegetables_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

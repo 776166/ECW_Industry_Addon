@@ -1,0 +1,42 @@
+{
+  "OutputInterval": 4,
+  "RequiresDeposit": true,
+  "Spacing": 1,
+  "Sounds": null,
+  "Smokes": null,
+  "ResearchUri": "base/mining_2.research",
+  "Size": [5, 5, 5],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/bauxite_mine.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": [
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_1",
+          "Lights": null
+        }
+      ],
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": [
+            {
+              "MeshUri": null,
+              "MeshVariant": "arctic_night_1",
+              "Lights": null
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Price": 78000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "8c4d9c",
+  "MeshUri": "ecwmain/paint_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

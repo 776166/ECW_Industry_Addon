@@ -1,0 +1,25 @@
+{
+  "TargetUri": "ecwmain/advanced_assembler.recipetarget",
+  "Duration": 5.0,
+  "InputItems": [
+    {
+      "Uri": "ecwmain/advanced_circuit.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "ecwmain/plastic.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "base/radio.item",
+      "Count": 1.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/tape_recorder.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "ecwmain/electronic_devices_production_2.research"
+}

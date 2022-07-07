@@ -1,0 +1,14 @@
+{
+  "Items": {
+    "ecwmain/bread.item": null,
+    "ecwmain/drinks.item": null,
+    "ecwmain/fruits.item": null,
+    "ecwmain/vegetables.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 31.5,
+  "TargetUri": "ecwmain/refrigerator_car_2_short.trainunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

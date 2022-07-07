@@ -1,0 +1,21 @@
+{
+  "TargetUri": "ecwmain/machinery_assembler.recipetarget",
+  "Duration": 10.0,
+  "InputItems": [
+    {
+      "Uri": "base/copper_wire.item",
+      "Count": 10.0
+    },
+    {
+      "Uri": "ecwmain/aluminum_bar.item",
+      "Count": 10.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/electric_motor.item",
+      "Count": 10.0
+    }
+  ],
+  "ResearchUri": "ecwmain/engineering.research"
+}

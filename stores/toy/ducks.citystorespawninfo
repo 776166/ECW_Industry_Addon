@@ -1,0 +1,12 @@
+{
+  "ParentUri": "ecwmain/rubber.citystorespawninfo",
+  "StoreUri": "ecwmain/toy.store",
+  "StoreLiveryName": null,
+  "ItemUri": "ecwmain/ducks.item",
+  "Tier": 3,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": null,
+  "Tag": null
+}

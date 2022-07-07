@@ -1,0 +1,8 @@
+{
+  "ItemUri": "ecwmain/water.item",
+  "TintColor": "00000033",
+  "RadiusMultiplier": 1.2,
+  "CapacityMultiplier": null,
+  "DecorationUris": [],
+  "Tier": 1
+}

@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "4f74aa",
+  "MeshUri": "ecwmain/electric_motor_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

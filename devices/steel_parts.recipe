@@ -1,0 +1,17 @@
+{
+  "TargetUri": "base/press.recipetarget",
+  "Duration": 5.0,
+  "InputItems": [
+    {
+      "Uri": "base/steel_bar.item",
+      "Count": 1.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/steel_parts.item",
+      "Count": 2.0
+    }
+  ],
+  "ResearchUri": "base/steel_fabrication.research"
+}

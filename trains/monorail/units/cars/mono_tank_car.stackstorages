@@ -1,0 +1,70 @@
+{
+  "Position": [0, 0.29, 0],
+  "Rotation": [0, 0, 0],
+  "SizeX": 0.82,
+  "SizeZ": 2.72,
+  "Items": {
+    "ecwmain/biofuel.item": {
+      "MeshUri": "ecwmain/mono_tank.obj",
+      "Resolution": [2, 1, 1],
+      "Spacing": [0.32, 0, 0],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/chemicals.item": {
+      "MeshUri": "ecwmain/mono_tank.obj",
+      "Resolution": [2, 1, 1],
+      "Spacing": [0.32, 0, 0],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/fuel.item": {
+      "MeshUri": "ecwmain/mono_tank.obj",
+      "Resolution": [2, 1, 1],
+      "Spacing": [0.32, 0, 0],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/crude_oil.item": {
+      "MeshUri": "ecwmain/mono_tank.obj",
+      "Resolution": [2, 1, 1],
+      "Spacing": [0.32, 0, 0],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/sulfur.item": {
+      "MeshUri": "ecwmain/mono_tank.obj",
+      "Resolution": [2, 1, 1],
+      "Spacing": [0.32, 0, 0],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/water.item": {
+      "MeshUri": "ecwmain/mono_tank.obj",
+      "Resolution": [2, 1, 1],
+      "Spacing": [0.32, 0, 0],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/flour.item": {
+      "MeshUri": "ecwmain/mono_tank.obj",
+      "Resolution": [2, 1, 1],
+      "Spacing": [0.32, 0, 0],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": 0.5,
+  "MaxWeight": 52.5,
+  "TargetUri": "ecwmain/mono_tank_car.trainunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.5
+}

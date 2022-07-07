@@ -1,0 +1,138 @@
+{
+  "RecipeTargetUri": "ecwmain/heavy_smelter.recipetarget",
+  "Submeshes": null,
+  "Sounds": null,
+  "Smokes": [
+    {
+      "Uri": "base/alloy_smelter_device.smoke",
+      "Position": [-2.2, 7.8, 1.15]
+    }
+  ],
+  "ClippingPlanes": [
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [-2.9, 0.225, -0.5],
+      "Rotation": [0, 90, 0],
+      "Scale": [0.4, 0.45, 1]
+    },
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [-0.5, 0.225, -1.9],
+      "Rotation": [0, 0, 0],
+      "Scale": [0.4, 0.45, 1]
+    },
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [0.5, 0.225, -1.9],
+      "Rotation": [0, 0, 0],
+      "Scale": [0.4, 0.45, 1]
+    },
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [1.5, 0.225, -1.9],
+      "Rotation": [0, 0, 0],
+      "Scale": [0.4, 0.45, 1]
+    }
+  ],
+  "Conveyors": [
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightExtraShort",
+      "Position": [4, 0, 0],
+      "Rotation": "Rotate0",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightExtraShort",
+      "Position": [3, 0, 0],
+      "Rotation": "Rotate0",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightExtraShort",
+      "Position": [2, 0, 0],
+      "Rotation": "Rotate0",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightExtraShort",
+      "Position": [0, 0, 1],
+      "Rotation": "Rotate90",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": [4, 0, -1],
+      "Rotation": "Rotate180",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": [3, 0, -1],
+      "Rotation": "Rotate180",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": [2, 0, -1],
+      "Rotation": "Rotate180",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": [-1, 0, 1],
+      "Rotation": "Rotate270",
+      "Handle": true
+    }
+  ],
+  "ResearchUri": "base/manufacturing_2.research",
+  "Size": [6, 8, 4],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/heavy_smelter_device.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": [
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_1",
+          "Lights": null
+        }
+      ],
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": [
+            {
+              "MeshUri": null,
+              "MeshVariant": "arctic_night_1",
+              "Lights": null
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Price": 79500.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

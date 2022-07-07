@@ -1,0 +1,21 @@
+{
+  "TargetUri": "base/electronics_assembler.recipetarget",
+  "Duration": 5.0,
+  "InputItems": [
+    {
+      "Uri": "ecwmain/plastic.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "base/copper_wire.item",
+      "Count": 1.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/advanced_circuit.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "ecwmain/electronics_production_3.research"
+}

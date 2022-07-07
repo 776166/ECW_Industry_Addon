@@ -1,0 +1,39 @@
+{
+  "Keyframes": {
+    "0": {
+      "Position": [2.6, -0.8, -2.15],
+      "Rotation": [0, 0, 0],
+      "SizeX": 0.0,
+      "SizeZ": 0.0,
+      "ScaleY": 0.0
+    },
+    "0.5": {
+      "Position": [2.6, -0.4, -2.15],
+      "Rotation": [0, 0, 0],
+      "SizeX": 2.4,
+      "SizeZ": 1.3,
+      "ScaleY": 1.0
+    },
+    "1": {
+      "Position": [2.6, 0, -2.15],
+      "Rotation": [0, 0, 0],
+      "SizeX": 2.4,
+      "SizeZ": 1.3,
+      "ScaleY": 1.0
+    }
+  },
+  "Items": {
+    "base/copper_ore.item": {
+      "MeshUri": "ecwmain/copper_big_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 175.0,
+  "TargetUri": "ecwmain/copper_big.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.1
+}

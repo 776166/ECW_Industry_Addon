@@ -1,0 +1,25 @@
+{
+  "ResearchUri": "ecwmain/storage_spec.research",
+  "Size": [12, 2, 8],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/l_oil_tank.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": null,
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": null,
+        }
+      }
+    }
+  },
+  "Price": 89000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

@@ -1,0 +1,31 @@
+{
+  "ParentResearchUris": [
+    "base/manufacturing_2.research",
+    "ecwmain/food_production.research"
+  ],
+  "Tier": 4,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "ecwmain/water.item",
+      "Count": null,
+      "CountMultiplier": null
+    },
+    {
+      "Uri": "ecwmain/vegetables.item",
+      "Count": null,
+      "CountMultiplier": 0.6
+    },
+    {
+      "Uri": "ecwmain/fruits.item",
+      "Count": null,
+      "CountMultiplier": 0.6
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

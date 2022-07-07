@@ -1,0 +1,86 @@
+{
+  "Sections": [
+    {
+      "Count": null,
+      "MinCount": null,
+      "MaxCount": 1,
+      "Units": [
+        {
+          "Uri": "ecwmain/mono_px_engine_1.trainunit",
+          "Flipped": false
+        }
+      ]
+    },
+    {
+      "Count": 0,
+      "MinCount": 0,
+      "MaxCount": null,
+      "Units": [
+        {
+          "Uri": "ecwmain/mono_px_car_1.trainunit",
+          "Flipped": false
+        }
+      ]
+    },
+    {
+      "Count": null,
+      "MinCount": null,
+      "MaxCount": 1,
+      "Units": [
+        {
+          "Uri": "ecwmain/mono_px_gl_car_1.trainunit",
+          "Flipped": false
+        }
+      ]
+    },
+    {
+      "Count": 0,
+      "MinCount": 0,
+      "MaxCount": null,
+      "Units": [
+        {
+          "Uri": "ecwmain/mono_px_car_1.trainunit",
+          "Flipped": false
+        }
+      ]
+    },
+    {
+      "Count": null,
+      "MinCount": null,
+      "MaxCount": 1,
+      "Units": [
+        {
+          "Uri": "ecwmain/mono_px_gl_car_1.trainunit",
+          "Flipped": false
+        }
+      ]
+    },
+    {
+      "Count": 0,
+      "MinCount": 0,
+      "MaxCount": null,
+      "Units": [
+        {
+          "Uri": "ecwmain/mono_px_car_1.trainunit",
+          "Flipped": false
+        }
+      ]
+    },
+    {
+      "Count": null,
+      "MinCount": null,
+      "MaxCount": 1,
+      "Units": [
+        {
+          "Uri": "ecwmain/mono_px_engine_1.trainunit",
+          "Flipped": true
+        },
+      ]
+    }
+  ],
+  "ResearchUri": "ecwmain/monorail.research",
+  "Tags": [
+    "mono"
+  ],
+  "Hidden": false
+}

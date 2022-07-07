@@ -1,0 +1,57 @@
+{
+  "Keyframes": {
+    "0": {
+      "Position": [0, 0.40, 0],
+      "Rotation": [0, 0, 0],
+      "SizeX": 0.0,
+      "SizeZ": 0.0,
+      "ScaleY": 0.0
+    },
+    "0.1": {
+      "Position": [0, 0.42, 0],
+      "Rotation": [0, 0, 0],
+      "SizeX": 0.72,
+      "SizeZ": 1.567,
+      "ScaleY": 0.1
+    },
+    "1": {
+      "Position": [0, 0.82, 0],
+      "Rotation": [0, 0, 0],
+      "SizeX": 0.72,
+      "SizeZ": 2.367,
+      "ScaleY": 1.0
+    }
+  },
+  "Items": {
+    "base/sand.item": {
+      "MeshUri": "base/sand_item_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/gravel.item": {
+      "MeshUri": "base/gravel_item_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/saw_dust.item": {
+      "MeshUri": "ecwmain/saw_dust_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/clay.item": {
+      "MeshUri": "ecwmain/clay_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": 0.5,
+  "MaxWeight": 37.0,
+  "TargetUri": "ecwmain/mono_open_hopper_car.trainunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.5
+}

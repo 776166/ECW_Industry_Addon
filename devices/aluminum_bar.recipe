@@ -1,0 +1,21 @@
+{
+  "TargetUri": "base/alloy_smelter.recipetarget",
+  "Duration": 30.0,
+  "InputItems": [
+    {
+      "Uri": "base/coal.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "ecwmain/aluminum.item",
+      "Count": 5.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/aluminum_bar.item",
+      "Count": 5.0
+    }
+  ],
+  "ResearchUri": "ecwmain/aluminum_production.research"
+}

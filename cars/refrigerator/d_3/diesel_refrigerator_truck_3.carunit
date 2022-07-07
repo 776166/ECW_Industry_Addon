@@ -1,0 +1,42 @@
+{
+  "Axles": [
+    {
+      "Uri": "base/truck_wheel_3.caraxle",
+      "Offset": 0.943,
+      "HalfTrack": 0.377,
+      "Steered": true
+    },
+    {
+      "Uri": "base/double_truck_wheel_3.caraxle",
+      "Offset": -0.626,
+      "HalfTrack": 0.321,
+      "Steered": false
+    }
+  ],
+  "AudioUri": "base/truck.caraudio",
+  "Type": "Diesel",
+  "Length": null,
+  "VelocityLimit": 80.0,
+  "Power": 170.0,
+  "Weight": 5.4,
+  "Price": null,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Liveries": [
+    {
+      "MeshUri": "ecwmain/diesel_refrigerator_truck_3.obj"
+    }
+  ],
+  "Coupling1Uri": null,
+  "Coupling2Uri": null,
+  "Submeshes": null,
+  "AnimationReferenceWheelRadius": null,
+  "ResearchUri": "base/diesel_engine_2.research",
+  "Explosive": false,
+  "ExplosionForce": null,
+  "Tags": [
+    "diesel"
+  ],
+  "Hidden": false
+}

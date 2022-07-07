@@ -1,0 +1,64 @@
+{
+  "OutputInterval": 2.5,
+  "RequiresDeposit": true,
+  "Spacing": 1,
+  "Submeshes": [
+    {
+      "MeshUri": "ecwmain/l_oil_well_1.obj",
+      "DefaultAnimation": {
+	  "PositionY": {
+          "0": 0.44
+        },
+	  "PositionZ": {
+          "0": -0.5
+        },
+        "RotationY": {
+          "0": 0,
+          "4": 360
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/l_oil_well_2.obj",
+      "DefaultAnimation": {
+	  "PositionY": {
+          "0": 2.4,
+          "2": 0.7,
+          "4": 2.4,
+        },
+	  "PositionZ": {
+          "0": -0.5
+        },
+        "RotationY": {
+          "0": 0,
+          "4": 360
+        }
+      }
+    }
+  ],
+  "Sounds": null,
+  "Smokes": null,
+  "ResearchUri": "ecwmain/oil_processing.research",
+  "Size": [3, 6, 4],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/m_oil_well.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": null,
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": null
+        }
+      }
+    }
+  },
+  "Price": 46000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

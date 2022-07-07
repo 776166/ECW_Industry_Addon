@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "977a4e",
+  "MeshUri": "ecwmain/saw_dust_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

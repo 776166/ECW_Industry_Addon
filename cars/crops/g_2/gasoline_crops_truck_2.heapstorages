@@ -1,0 +1,39 @@
+{
+  "Keyframes": {
+    "0": {
+      "Position": [0, 0.32, -0.4],
+      "Rotation": [0, 0, 0],
+      "SizeX": 0.0,
+      "SizeZ": 0.0,
+      "ScaleY": 0.0
+    },
+    "0.1": {
+      "Position": [0, 0.71, -0.4],
+      "Rotation": [0, 0, 0],
+      "SizeX": 0.683,
+      "SizeZ": 1.07,
+      "ScaleY": 1
+    },
+    "1": {
+      "Position": [0, 0.71, -0.4],
+      "Rotation": [0, 0, 0],
+      "SizeX": 0.683,
+      "SizeZ": 1.07,
+      "ScaleY": 1.0
+    }
+  },
+  "Items": {
+    "ecwmain/crops.item": {
+      "MeshUri": "ecwmain/crops_heap_g2.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 11.0,
+  "TargetUri": "ecwmain/gasoline_crops_truck_2.carunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

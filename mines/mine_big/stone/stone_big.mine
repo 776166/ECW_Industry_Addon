@@ -1,0 +1,212 @@
+{
+  "OutputInterval": 0.25,
+  "RequiresDeposit": false,
+  "Spacing": 50,
+  "Submeshes": [
+    {
+      "MeshUri": "ecwmain/stone_big_cargo.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -0.5
+        },
+        "PositionY": {
+          "0": 0.25,
+          "1": 0.25,
+          "3": 3.25,
+          "6": 3.25,
+          "7": 3,
+          "9": 3,
+          "10": 3.25,
+          "13": 3.25,
+          "15": 0.25,
+          "16": 0.25
+        },
+        "PositionZ": {
+          "0": 2.5
+        },
+        "RotationY": {
+          "0": 0,
+          "1": 0,
+          "3": 0,
+          "6": -135,
+          "7": -135,
+          "9": -135,
+          "10": -135,
+          "13": 0,
+          "15": 0,
+          "16": 0
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/stone_big_stone.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -0.5
+        },
+        "PositionY": {
+          "0": 0.25,
+          "1": 0.25,
+          "3": 3.25,
+          "6": 3.25,
+          "7": 3,
+          "7.1": -1,
+        },
+        "PositionZ": {
+          "0": 2.5
+        },
+        "RotationY": {
+          "0": 0,
+          "1": 0,
+          "3": 0,
+          "6": -135
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/stone_big_crane.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -0.5
+        },
+        "PositionY": {
+          "0": 3.1
+        },
+        "PositionZ": {
+          "0": 2.5
+        },
+        "RotationY": {
+          "0": 0,
+          "1": 0,
+          "3": 0,
+          "6": -135,
+          "7": -135,
+          "9": -135,
+          "10": -135,
+          "13": 0,
+          "15": 0,
+          "16": 0
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/stone_big_rope.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -0.5
+        },
+        "PositionY": {
+          "0": 1.07,
+          "1": 1.07,
+          "3": 4.07,
+          "6": 4.07,
+          "7": 3.82,
+          "9": 3.82,
+          "10": 4.07,
+          "13": 4.07,
+          "15": 1.07,
+          "16": 1.07
+        },
+        "PositionZ": {
+          "0": 2.5
+        },
+        "RotationY": {
+          "0": 0,
+          "1": 0,
+          "3": 0,
+          "6": -135,
+          "7": -135,
+          "9": -135,
+          "10": -135,
+          "13": 0,
+          "15": 0,
+          "16": 0
+        },
+        "ScaleY": {
+          "0": 1,
+          "1": 1,
+          "3": 0.15,
+          "6": 0.15,
+          "7": 0.2,
+          "9": 0.2,
+          "10": 0.15,
+          "13": 0.15,
+          "15": 1,
+          "16": 1
+        },
+      }
+    },
+    {
+      "MeshUri": "ecwmain/stone_big_saw.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": 1.85
+        },
+        "PositionY": {
+          "0": 2.2
+        },
+        "PositionZ": {
+          "0": -0.5
+        },
+        "RotationZ": {
+          "0": 0,
+          "2": 90,
+          "4": 0,
+          "6": 90,
+          "8": 0,
+          "10": 90,
+          "12": 0,
+          "14": 90,
+          "16": 0
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/stone_big_water.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -1
+        },
+        "PositionZ": {
+          "0": -1.5
+        },
+        "ScaleY": {
+          "0": 1,
+          "2": 0.6,
+          "4": 1,
+          "6": 0.8,
+          "8": 1,
+          "10": 0.6,
+          "12": 1,
+          "14": 0.8,
+          "16": 1,
+        }
+      }
+    }
+  ],
+  "Sounds": null,
+  "Smokes": null,
+  "ResearchUri": "ecwmain/mining_4.research",
+  "Size": [15, 5, 15],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/stone_big_mine.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": null,
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": null
+        }
+      }
+    }
+  },
+  "Price": 2020000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

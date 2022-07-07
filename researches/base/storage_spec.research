@@ -1,0 +1,20 @@
+{
+  "ParentResearchUris": [
+    "base/storages_2.research"
+  ],
+  "Tier": 5,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "base/concrete_beam.item",
+      "Count": null,
+      "CountMultiplier": null
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

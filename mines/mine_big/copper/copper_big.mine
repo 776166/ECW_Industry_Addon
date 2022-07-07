@@ -1,0 +1,126 @@
+{
+  "OutputInterval": 0.25,
+  "RequiresDeposit": false,
+  "Spacing": 50,
+  "Submeshes": [
+    {
+      "MeshUri": "ecwmain/copper_big_exc.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -3
+        },
+        "PositionY": {
+          "0": 0
+        },
+        "PositionZ": {
+          "0": -4.5,
+          "15": 4.5,
+          "30": -4.5
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/copper_big_rotor.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -6.38
+        },
+        "PositionY": {
+          "0": 1.3
+        },
+        "PositionZ": {
+          "0": -4.5,
+          "15": 4.5,
+          "30": -4.5
+        },
+        "RotationZ": {
+          "0": 0,
+          "16": -360
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/copper_big_exc.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": 4.5,
+          "7.5": 0.5,
+          "15": 4.5,
+          "22.5": 0.5,
+          "30": 4.5
+        },
+        "PositionY": {
+          "0": 0
+        },
+        "PositionZ": {
+          "0": 3
+        },
+        "RotationY": {
+          "0": 90
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/copper_big_rotor.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": 4.5,
+          "7.5": 0.5,
+          "15": 4.5,
+          "22.5": 0.5,
+          "30": 4.5
+        },
+        "PositionY": {
+          "0": 1.3
+        },
+        "PositionZ": {
+          "0": 6.38
+        },
+        "RotationY": {
+          "0": 90
+        },
+        "RotationZ": {
+          "0": 0,
+          "16": -360
+        }
+      }
+    }
+  ],
+  "Sounds": null,
+  "Smokes": null,
+  "ResearchUri": "ecwmain/mining_4.research",
+  "Size": [15, 5, 15],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/copper_big_mine.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": [
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_1",
+          "Lights": null
+        }
+      ],
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": [
+            {
+              "MeshUri": null,
+              "MeshVariant": "arctic_night_1",
+              "Lights": null
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Price": 2860000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

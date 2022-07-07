@@ -1,0 +1,78 @@
+{
+  "Position": [0, 0.33, 0],
+  "Rotation": [0, 0, 0],
+  "SizeX": 0.66,
+  "SizeZ": 2.66,
+  "Items": {
+    "base/iron_bar.item": {
+      "MeshUri": "base/iron_bar.obj",
+      "Resolution": [4, 1, 7],
+      "Spacing": [0.04, 0.02, 0.04],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/copper_bar.item": {
+      "MeshUri": "base/copper_bar.obj",
+      "Resolution": [4, 1, 7],
+      "Spacing": [0.04, 0.02, 0.04],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/steel_bar.item": {
+      "MeshUri": "base/steel_bar_item.obj",
+      "Resolution": [4, 1, 7],
+      "Spacing": [0.04, 0.02, 0.04],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/stone.item": {
+      "MeshUri": "base/stone_item.obj",
+      "Resolution": [2, 1, 5],
+      "Spacing": [0.04, 0.02, 0.04],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/stone_brick.item": {
+      "MeshUri": "base/stone_brick_item.obj",
+      "Resolution": [3, 1, 5],
+      "Spacing": [0.04, 0.02, 0.04],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/aluminum_bar.item": {
+      "MeshUri": "ecwmain/aluminum_bar_item.obj",
+      "Resolution": [4, 1, 7],
+      "Spacing": [0.04, 0.02, 0.04],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/cast_iron.item": {
+      "MeshUri": "ecwmain/cast_iron_item.obj",
+      "Resolution": [3, 1, 6],
+      "Spacing": [0.04, 0.02, 0.04],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/brick.item": {
+      "MeshUri": "ecwmain/brick_item.obj",
+      "Resolution": [4, 2, 8],
+      "Spacing": [0.04, 0.01, 0.04],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": 0.5,
+  "MaxWeight": 31,
+  "TargetUri": "ecwmain/mono_platform_car.trainunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.5
+}

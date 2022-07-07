@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "79828a",
+  "MeshUri": "ecwmain/dural_plate_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

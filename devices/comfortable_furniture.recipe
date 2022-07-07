@@ -1,0 +1,21 @@
+{
+  "TargetUri": "base/carpentry.recipetarget",
+  "Duration": 5.0,
+  "InputItems": [
+    {
+      "Uri": "base/advanced_wood_frame.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "ecwmain/fabric.item",
+      "Count": 1.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/comfortable_furniture.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "ecwmain/woodworking_3.research"
+}

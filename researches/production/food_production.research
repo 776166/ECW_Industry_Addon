@@ -1,0 +1,26 @@
+{
+  "ParentResearchUris": [
+    "base/manufacturing.research",
+    "ecwmain/agriculture.research"
+  ],
+  "Tier": 3,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "ecwmain/water.item",
+      "Count": null,
+      "CountMultiplier": null
+    },
+    {
+      "Uri": "ecwmain/crops.item",
+      "Count": null,
+      "CountMultiplier": 0.8
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

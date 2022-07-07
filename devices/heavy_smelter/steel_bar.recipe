@@ -1,0 +1,21 @@
+{
+  "TargetUri": "ecwmain/heavy_smelter.recipetarget",
+  "Duration": 15.0,
+  "InputItems": [
+    {
+      "Uri": "base/coal.item",
+      "Count": 8.0
+    },
+    {
+      "Uri": "base/iron_bar.item",
+      "Count": 20.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "base/steel_bar.item",
+      "Count": 20.0
+    }
+  ],
+  "ResearchUri": "base/steel_smelting.research",
+}

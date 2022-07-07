@@ -1,0 +1,25 @@
+{
+  "ResearchUri": "ecwmain/agriculture.research",
+  "Size": [4, 3, 3],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/s_refrigerator.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": null,
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": null
+        }
+      }
+    }
+  },
+  "Price": 37500.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

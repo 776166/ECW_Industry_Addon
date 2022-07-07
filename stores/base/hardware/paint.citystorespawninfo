@@ -1,0 +1,12 @@
+{
+  "ParentUri": null,
+  "StoreUri": "base/hardware_2.store",
+  "StoreLiveryName": null,
+  "ItemUri": "ecwmain/paint.item",
+  "Tier": 3,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": null,
+  "Tag": null
+}

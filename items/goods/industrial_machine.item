@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "005c1b",
+  "MeshUri": "ecwmain/industrial_machine_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

@@ -1,0 +1,12 @@
+{
+  "ParentUri": null,
+  "StoreUri": "ecwmain/coal_power_plant.store",
+  "StoreLiveryName": null,
+  "ItemUri": "base/coal.item",
+  "Tier": 0,
+  "Demand": null,
+  "DemandMultiplier": 1.5,
+  "Price": null,
+  "PriceMultiplier": 1.1,
+  "Tag": null
+}

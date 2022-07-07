@@ -1,0 +1,20 @@
+{
+  "ParentResearchUris": [
+    "base/manufacturing_2.research"
+  ],
+  "Tier": 2,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "ecwmain/bauxite_ore.item",
+      "Count": null,
+      "CountMultiplier": null
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

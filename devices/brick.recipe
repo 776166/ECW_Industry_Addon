@@ -1,0 +1,21 @@
+{
+  "TargetUri": "base/alloy_smelter.recipetarget",
+  "Duration": 6.0,
+  "InputItems": [
+    {
+      "Uri": "base/coal.item",
+      "Count": 2.0
+    },
+    {
+      "Uri": "ecwmain/clay.item",
+      "Count": 6.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/brick.item",
+      "Count": 6.0
+    }
+  ],
+  "ResearchUri": "ecwmain/clay_processing.research"
+}

@@ -1,0 +1,26 @@
+{
+  "ParentResearchUris": [
+    "base/electronics_production.research",
+    "ecwmain/aluminum_production.research"
+  ],
+  "Tier": 5,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "base/copper_wire.item",
+      "Count": null,
+      "CountMultiplier": null
+    },
+    {
+      "Uri": "ecwmain/cast_iron.item",
+      "Count": null,
+      "CountMultiplier": 0.7
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

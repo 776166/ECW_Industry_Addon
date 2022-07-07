@@ -1,0 +1,94 @@
+{
+  "OutputInterval": 4,
+  "RequiresDeposit": true,
+  "Spacing": 1,
+  "Submeshes": [
+    {
+      "MeshUri": "ecwmain/sulfur_mine_rotor.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -1.8
+        },
+        "PositionZ": {
+          "0": -2.5
+        },
+        "RotationY": {
+          "0": 0,
+          "2": 720
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/sulfur_mine_rotor.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -2.5
+        },
+        "PositionZ": {
+          "0": -1
+        },
+        "RotationY": {
+          "0": 0,
+          "2": 720
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/sulfur_mine_rotor.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -2.2
+        },
+        "PositionZ": {
+          "0": 0.4
+        },
+        "RotationY": {
+          "0": 0,
+          "2": 720
+        }
+      }
+    }
+  ],
+  "Sounds": null,
+  "Smokes": [
+    {
+      "Uri": "ecwmain/sulfur.smoke",
+      "Position": [-1, 0, -0.5]
+    },
+    {
+      "Uri": "ecwmain/sulfur.smoke",
+      "Position": [-0.63, 0, -1.75]
+    },
+    {
+      "Uri": "ecwmain/sulfur.smoke",
+      "Position": [-1.5, 0, 0.5]
+    },
+    {
+      "Uri": "ecwmain/sulfur.smoke",
+      "Position": [-1.35, 0, -0.75]
+    },
+  ],
+  "ResearchUri": "base/mining_2.research",
+  "Size": [6, 3, 6],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/sulfur_mine.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": null,
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": null
+        }
+      }
+    }
+  },
+  "Price": 89000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

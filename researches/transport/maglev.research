@@ -1,0 +1,14 @@
+{
+  "ParentResearchUris": [
+    "base/rails.research"
+  ],
+  "Tier": 1,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [],
+  "CompletedByDefault": false,
+  "Hidden": true,
+  "Goal": false
+}

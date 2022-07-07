@@ -1,0 +1,21 @@
+{
+  "ParentResearchUris": [
+    "ecwmain/aluminum_production.research",
+    "base/copper_smelting.research"
+  ],
+  "Tier": 4,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "ecwmain/aluminum_bar.item",
+      "Count": null,
+      "CountMultiplier": null
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

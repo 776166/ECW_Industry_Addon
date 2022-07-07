@@ -1,0 +1,12 @@
+{
+  "ParentUri": null,
+  "StoreUri": "base/industrial_2.store",
+  "StoreLiveryName": null,
+  "ItemUri": "ecwmain/aluminum_bar.item",
+  "Tier": 3,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": null,
+  "Tag": null
+}

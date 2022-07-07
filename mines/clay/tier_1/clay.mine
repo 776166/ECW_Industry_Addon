@@ -1,0 +1,162 @@
+{
+  "OutputInterval": 4.0,
+  "RequiresDeposit": true,
+  "Spacing": 1,
+  "Submeshes": [
+    {
+      "MeshUri": "ecwmain/clay_mine_anim_0.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -1,
+          "4": -1,
+          "5": -0.2,
+          "6": -0.2,
+          "7": -1,
+          "8": -1
+        },
+        "PositionY": {
+          "0": 0.5
+        },
+        "PositionZ": {
+          "0": 1.1,
+          "1": 0.6,
+          "2": 0.6,
+          "3": 1.1,
+          "8": 1.1
+        },
+        "RotationY": {
+          "0": 0,
+          "3": 0,
+          "4": -90,
+          "7": -90,
+          "8": 0
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/clay_mine_anim_1.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -1,
+          "4": -1,
+          "5": -0.2,
+          "6": -0.2,
+          "7": -1,
+          "8": -1
+        },
+        "PositionY": {
+          "0": 0.5
+        },
+        "PositionZ": {
+          "0": 1.1,
+          "1": 0.6,
+          "2": 0.6,
+          "3": 1.1,
+          "8": 1.1
+        },
+        "RotationY": {
+          "0": 0,
+          "3": 0,
+          "4": -90,
+          "7": -90,
+          "8": 0
+	  },
+	  "RotationX": {
+          "0": 0,
+          "1": 0,
+          "2": 20,
+          "5": 20,
+          "6": 0,
+          "8": 0
+        }
+      }
+    },
+    {
+      "MeshUri": "ecwmain/clay_mine_anim_2.obj",
+      "DefaultAnimation": {
+        "PositionX": {
+          "0": -1,
+          "4": -1,
+          "5": -0.2,
+          "6": -0.2,
+          "7": -1,
+          "8": -1
+        },
+        "PositionY": {
+          "0": 0.5
+        },
+        "PositionZ": {
+          "0": 1.1,
+          "1": 0.6,
+          "2": 0.6,
+          "3": 1.1,
+          "8": 1.1
+        },
+        "RotationY": {
+          "0": 0,
+          "3": 0,
+          "4": -90,
+          "7": -90,
+          "8": 0
+	  },
+	  "RotationX": {
+          "0": 0,
+          "1": 0,
+          "2": 20,
+          "5": 20,
+          "6": 0,
+          "8": 0
+        },
+	  "ScaleX": {
+          "0": 0,
+          "1.9": 0,
+          "2": 1,
+          "5.9": 1,
+          "6": 0,
+          "8": 0
+        },
+	  "ScaleY": {
+          "0": 0,
+          "1.9": 0,
+          "2": 1,
+          "5.9": 1,
+          "6": 0,
+          "8": 0
+        },
+	  "ScaleZ": {
+          "0": 0,
+          "1.9": 0,
+          "2": 1,
+          "5.9": 1,
+          "6": 0,
+          "8": 0
+        }
+      }
+    }
+  ],
+  "Sounds": null,
+  "Smokes": null,
+  "ResearchUri": "base/mining.research",
+  "Size": [5, 2, 6],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/clay_mine.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": null,
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": null
+        }
+      }
+    }
+  },
+  "Price": 26000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

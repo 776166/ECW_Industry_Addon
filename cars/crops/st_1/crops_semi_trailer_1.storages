@@ -1,0 +1,11 @@
+{
+  "Items": {
+    "ecwmain/crops.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 34.0,
+  "TargetUri": "ecwmain/crops_semi_trailer_1.carunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

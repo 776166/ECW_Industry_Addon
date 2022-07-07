@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "bf5b39",
+  "MeshUri": "ecwmain/fuel_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

@@ -1,0 +1,12 @@
+{
+  "ParentUri": null,
+  "StoreUri": "ecwmain/power_plant.store",
+  "StoreLiveryName": "biofuel",
+  "ItemUri": "ecwmain/biofuel.item",
+  "Tier": 2,
+  "Demand": null,
+  "DemandMultiplier": 1.5,
+  "Price": null,
+  "PriceMultiplier": 1.1,
+  "Tag": null
+}

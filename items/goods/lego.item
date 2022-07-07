@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "af855d",
+  "MeshUri": "ecwmain/lego_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

@@ -1,0 +1,38 @@
+{
+  "Position": [-2.4, 0, 2.18],
+  "Rotation": [0, 0, 0],
+  "SizeX": 1.4,
+  "SizeZ": 2.84,
+  "Items": {
+    "ecwmain/crops.item": {
+      "MeshUri": "ecwmain/crops_silo.obj",
+      "Resolution": [2, 1, 4],
+      "Spacing": [0.04, 0, 0.04],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/fruits.item": {
+      "MeshUri": "ecwmain/farm_1_storage.obj",
+      "Resolution": [1, 1, 4],
+      "Spacing": [0, 0, 0],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "ecwmain/vegetables.item": {
+      "MeshUri": "ecwmain/farm_1_storage.obj",
+      "Resolution": [1, 1, 4],
+      "Spacing": [0, 0, 0],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": 0.25,
+  "MaxWeight": 105.0,
+  "TargetUri": "ecwmain/farm_1.warehouse",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.25
+}

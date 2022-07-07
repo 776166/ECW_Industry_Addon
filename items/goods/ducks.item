@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "a6ab31",
+  "MeshUri": "ecwmain/ducks_item.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.75
+}

@@ -1,0 +1,522 @@
+{
+    "Commands": [
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_lq_box_semitrailer_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_lq_box_semitrailer_2.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_lq_box_trailer_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_lq_curtain_semitrailer_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_lq_curtain_semitrailer_2.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_lq_curtain_trailer_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_r_lq_box_truck_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_r_lq_curtain_truck_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_t_lq_box_truck_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_t_lq_curtain_truck_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_p_lq_dumper_truck_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": null,
+			  "ecwmain/bauxite_ore.item": null,
+			  "ecwmain/clay.item": null,
+			  "ecwmain/saw_dust.item": null
+            }
+        },
+
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_lq_dumper_trailer_1.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_t_lq_dumper_truck_1.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_lq_flatbed_semitrailer_1.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [4, 1, 8],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [4, 1, 8],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [4, 2, 8],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_lq_flatbed_semitrailer_2.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [4, 1, 8],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [4, 1, 8],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [4, 2, 8],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_lq_flatbed_trailer_1.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [4, 1, 5],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [4, 1, 5],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [4, 2, 5],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_r_lq_flatbed_truck_1.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [4, 1, 5],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [4, 1, 5],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [4, 2, 5],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scania_p_r_t_pack/scania_t_lq_flatbed_truck_1.stackstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum_bar.item": {
+				"MeshUri": "ecwmain/aluminum_bar_item.obj",
+				"Resolution": [4, 1, 5],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/cast_iron.item": {
+				"MeshUri": "ecwmain/cast_iron_item.obj",
+				"Resolution": [4, 1, 5],
+				"Spacing": [0.04, 0.04, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+			  "ecwmain/brick.item": {
+				"MeshUri": "ecwmain/brick_item.obj",
+				"Resolution": [4, 2, 5],
+				"Spacing": [0.04, 0.01, 0.04],
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+    ]
+}

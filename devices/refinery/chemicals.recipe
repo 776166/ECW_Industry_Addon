@@ -1,0 +1,17 @@
+{
+  "TargetUri": "ecwmain/refinery.recipetarget",
+  "Duration": 4.0,
+  "InputItems": [
+    {
+      "Uri": "ecwmain/crude_oil.item",
+      "Count": 4.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/chemicals.item",
+      "Count": 4.0
+    }
+  ],
+  "ResearchUri": "ecwmain/oil_processing.research"
+}

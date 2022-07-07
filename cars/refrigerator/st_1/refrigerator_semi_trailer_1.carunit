@@ -1,0 +1,48 @@
+{
+  "Axles": [
+    {
+      "Uri": "base/invisible.caraxle",
+      "Offset": 1.14,
+      "HalfTrack": 0.35,
+      "Steered": false
+    },
+    {
+      "Uri": "base/truck_wheel_2.caraxle",
+      "Offset": -0.098,
+      "HalfTrack": 0.35,
+      "Steered": false
+    },
+    {
+      "Uri": "base/truck_wheel_2.caraxle",
+      "Offset": -0.477,
+      "HalfTrack": 0.35,
+      "Steered": false
+    }
+  ],
+  "AudioUri": null,
+  "Type": "Unpowered",
+  "Length": 1.65,
+  "VelocityLimit": 90.0,
+  "Power": null,
+  "Weight": 5.5,
+  "Price": null,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Liveries": [
+    {
+      "MeshUri": "ecwmain/refrigerator_semi_trailer_1.obj"
+    }
+  ],
+  "Coupling1Uri": "base/diesel_truck_2.carcoupling",
+  "Coupling2Uri": null,
+  "Submeshes": null,
+  "AnimationReferenceWheelRadius": null,
+  "ResearchUri": "base/diesel_engine_3.research",
+  "Explosive": false,
+  "ExplosionForce": null,
+  "Tags": [
+    "diesel"
+  ],
+  "Hidden": false
+}

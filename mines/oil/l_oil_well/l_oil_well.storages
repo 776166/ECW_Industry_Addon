@@ -1,0 +1,11 @@
+{
+  "Items": {
+    "ecwmain/crude_oil.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 35,
+  "TargetUri": "ecwmain/l_oil_well.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

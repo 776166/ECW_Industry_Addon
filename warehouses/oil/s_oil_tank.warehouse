@@ -1,0 +1,17 @@
+{
+  "ResearchUri": "ecwmain/oil_processing.research",
+  "Size": [4, 2, 4],
+  "Liveries": {
+    "default": {
+      "MeshUri": "ecwmain/s_oil_tank.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": null
+    }
+  },
+  "Price": 23000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}

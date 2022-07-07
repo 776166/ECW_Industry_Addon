@@ -1,0 +1,11 @@
+{
+  "Items": {
+    "ecwmain/crops.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": 0.75,
+  "MaxWeight": 56.0,
+  "TargetUri": "ecwmain/crops_car_3.trainunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.75
+}

@@ -1,0 +1,22 @@
+{
+  "Position": [-0.921, 0.089, -1.13],
+  "Rotation": [0, 0, 0],
+  "SizeX": 3.4,
+  "SizeZ": 2.4,
+  "Items": {
+    "base/wood_log.item": {
+      "MeshUri": "base/wood_log.obj",
+      "Resolution": [15, 3, 2],
+      "Spacing": [0.04, 0.04, 0.04],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 200.0,
+  "TargetUri": "ecwmain/wood_2.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.5
+}

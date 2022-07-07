@@ -1,0 +1,21 @@
+{
+  "TargetUri": "ecwmain/heavy_smelter.recipetarget",
+  "Duration": 15.0,
+  "InputItems": [
+    {
+      "Uri": "base/coal.item",
+      "Count": 3.0
+    },
+    {
+      "Uri": "base/copper_ore.item",
+      "Count": 18.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "base/copper_bar.item",
+      "Count": 18.0
+    }
+  ],
+  "ResearchUri": "base/copper_smelting.research",
+}

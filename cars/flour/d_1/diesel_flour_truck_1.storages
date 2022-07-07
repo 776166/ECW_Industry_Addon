@@ -1,0 +1,11 @@
+{
+  "Items": {
+    "ecwmain/flour.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 18.0,
+  "TargetUri": "ecwmain/diesel_flour_truck_1.carunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

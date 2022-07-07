@@ -1,0 +1,153 @@
+{
+    "Commands": [
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scm_hovertrucks/hovertruck_1.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scm_hovertrucks/hovertruck_2.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scm_hovertrucks/hovertruck_3.storages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/advanced_circuit.item": null,
+			  "ecwmain/bread.item": null,
+			  "ecwmain/canned_food.item": null,
+			  "ecwmain/comfortable_furniture.item": null,
+			  "ecwmain/computer.item": null,
+			  "ecwmain/ducks.item": null,
+			  "ecwmain/dural_plate.item": null,
+			  "ecwmain/electric_motor.item": null,
+			  "ecwmain/fabric.item": null,
+			  "ecwmain/industrial_machine.item": null,
+			  "ecwmain/lego.item": null,
+			  "ecwmain/paint.item": null,
+			  "ecwmain/paper.item": null,
+			  "ecwmain/plastic.item": null,
+			  "ecwmain/rubber.item": null,
+			  "ecwmain/steel_parts.item": null,
+			  "ecwmain/tape_recorder.item": null,
+			  "ecwmain/tire.item": null,
+			  "ecwmain/tools.item": null,
+			  "ecwmain/washing_machine.item": null
+            }
+        },
+
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scm_hovertrucks/hovertruck_4.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "scm_hovertrucks/hovertruck_5.heapstorages",
+            "Path": "Items",
+            "Value": {
+			  "ecwmain/aluminum.item": {
+				"MeshUri": "ecwmain/aluminum_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/bauxite_ore.item": {
+				"MeshUri": "ecwmain/bauxite_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/clay.item": {
+				"MeshUri": "ecwmain/clay_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  },
+				"ecwmain/saw_dust.item": {
+				"MeshUri": "ecwmain/saw_dust_heap.obj",
+				"Capacity": null,
+				"ExplosionForce": null,
+				"Explosive": false
+			  }
+            }
+        },
+    ]
+}

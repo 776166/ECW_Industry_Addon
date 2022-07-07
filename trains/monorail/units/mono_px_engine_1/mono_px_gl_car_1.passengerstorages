@@ -1,0 +1,15 @@
+{
+  "Items": {
+    "base/passenger.item": {
+      "Capacity": 42,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": null,
+  "TargetUri": "ecwmain/mono_px_gl_car_1.trainunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

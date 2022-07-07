@@ -1,0 +1,16 @@
+{
+  "Items": {
+    "base/sand.item": null,
+    "base/gravel.item": null,
+    "ecwmain/clay.item": null,
+    "ecwmain/crops.item": null,
+    "ecwmain/saw_dust.item": null,
+    "ecwmain/crops.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": 0.5,
+  "MaxWeight": 40.0,
+  "TargetUri": "ecwmain/mono_hopper_car.trainunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.5
+}

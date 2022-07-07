@@ -1,0 +1,21 @@
+{
+  "TargetUri": "ecwmain/machinery_assembler.recipetarget",
+  "Duration": 10.0,
+  "InputItems": [
+    {
+      "Uri": "ecwmain/steel_parts.item",
+      "Count": 10.0
+    },
+    {
+      "Uri": "ecwmain/rubber.item",
+      "Count": 5.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/tools.item",
+      "Count": 10.0
+    }
+  ],
+  "ResearchUri": "ecwmain/engineering.research"
+}

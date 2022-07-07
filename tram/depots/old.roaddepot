@@ -1,0 +1,96 @@
+{
+  "Roads": [
+    {
+      "DespawnConnectionIndex": null,
+      "SpawnConnectionIndex": null,
+      "Uri": "ecwmain/tram.road",
+      "RoadType": "Cap",
+      "Position": [1, 0, 1],
+      "Rotation": "Rotate180",
+      "Handle": false
+    },
+    {
+      "DespawnConnectionIndex": 2,
+      "SpawnConnectionIndex": null,
+      "Uri": "ecwmain/tram.road",
+      "RoadType": "Straight",
+      "Position": [1, 0, 2],
+      "Rotation": "Rotate0",
+      "Handle": false
+    },
+    {
+      "DespawnConnectionIndex": null,
+      "SpawnConnectionIndex": null,
+      "Uri": "ecwmain/tram.road",
+      "RoadType": "Straight",
+      "Position": [1, 0, 3],
+      "Rotation": "Rotate0",
+      "Handle": false
+    },
+    {
+      "DespawnConnectionIndex": null,
+      "SpawnConnectionIndex": 0,
+      "Uri": "ecwmain/tram.road",
+      "RoadType": "Straight",
+      "Position": [1, 0, 4],
+      "Rotation": "Rotate0",
+      "Handle": false
+    },
+    {
+      "DespawnConnectionIndex": null,
+      "SpawnConnectionIndex": null,
+      "Uri": "ecwmain/tram.road",
+      "RoadType": "Cap",
+      "Position": [1, 0, 5],
+      "Rotation": "Rotate0",
+      "Handle": true
+    }
+  ],
+  "ClippingPlanes": [
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [0, 0.812, 1.753],
+      "Rotation": [0, 0, 0],
+      "Scale": [2.443, 1.58, 1]
+    }
+  ],
+  "ResearchUri": "base/roads.research",
+  "Tags": [
+    "tram",
+    "electric"
+  ],
+  "Size": [5, 3, 5],
+  "Liveries": {
+    "default": {
+      "MeshUri": "base/old_road_depot.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": [
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_1",
+          "Lights": null
+        }
+      ],
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": [
+            {
+              "MeshUri": null,
+              "MeshVariant": "arctic_night_1",
+              "Lights": null
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Price": 29500.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": true
+}

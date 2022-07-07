@@ -1,0 +1,17 @@
+{
+  "TargetUri": "base/circular_saw.recipetarget",
+  "Duration": 6.0,
+  "InputItems": [
+    {
+      "Uri": "base/wood_log.item",
+      "Count": 1.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "ecwmain/saw_dust.item",
+      "Count": 2.0
+    }
+  ],
+  "ResearchUri": "base/wood_processing.research"
+}

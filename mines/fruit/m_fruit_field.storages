@@ -1,0 +1,11 @@
+{
+  "Items": {
+    "ecwmain/fruits.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 3.5,
+  "TargetUri": "ecwmain/m_fruit_field.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

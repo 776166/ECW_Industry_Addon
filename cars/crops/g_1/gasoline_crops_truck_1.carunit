@@ -1,0 +1,42 @@
+{
+  "Axles": [
+    {
+      "Uri": "base/old_wheel.caraxle",
+      "Offset": 0.66,
+      "HalfTrack": 0.3,
+      "Steered": true
+    },
+    {
+      "Uri": "base/double_old_wheel.caraxle",
+      "Offset": -0.52,
+      "HalfTrack": 0.29,
+      "Steered": false
+    }
+  ],
+  "AudioUri": "base/truck.caraudio",
+  "Type": "Gasoline",
+  "Length": null,
+  "VelocityLimit": 50.0,
+  "Power": 49.0,
+  "Weight": 1.85,
+  "Price": null,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Liveries": [
+    {
+      "MeshUri": "ecwmain/gasoline_crops_truck_1.obj"
+    }
+  ],
+  "Coupling1Uri": null,
+  "Coupling2Uri": null,
+  "Submeshes": null,
+  "AnimationReferenceWheelRadius": null,
+  "ResearchUri": "base/gasoline_engine.research",
+  "Explosive": false,
+  "ExplosionForce": null,
+  "Tags": [
+    "gasoline"
+  ],
+  "Hidden": false
+}

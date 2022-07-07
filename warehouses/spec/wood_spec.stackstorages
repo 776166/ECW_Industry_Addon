@@ -1,0 +1,38 @@
+{
+  "Position": [1.25, 0.04, 0],
+  "Rotation": [0, 0, 0],
+  "SizeX": 3.7,
+  "SizeZ": 5.2,
+  "Items": {
+    "base/wood_log.item": {
+      "MeshUri": "base/wood_log.obj",
+      "Resolution": [15, 2, 4],
+      "Spacing": [0.05, 0, 0.4],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/wood_beam.item": {
+      "MeshUri": "base/wood_beam_item.obj",
+      "Resolution": [15, 2, 4],
+      "Spacing": [0.05, 0, 0.4],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    },
+    "base/wood_plank.item": {
+      "MeshUri": "base/wood_plank.obj",
+      "Resolution": [15, 4, 4],
+      "Spacing": [0.05, 0, 0.4],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": 0.25,
+  "MaxWeight": 420.0,
+  "TargetUri": "ecwmain/wood_spec.warehouse",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": 0.25
+}

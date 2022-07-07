@@ -1,0 +1,12 @@
+{
+  "ParentUri": "base/steel_bar.citystorespawninfo",
+  "StoreUri": "base/industrial_2.store",
+  "StoreLiveryName": null,
+  "ItemUri": "ecwmain/steel_parts.item",
+  "Tier": 3,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": null,
+  "Tag": null
+}

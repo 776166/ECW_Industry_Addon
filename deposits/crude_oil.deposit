@@ -1,0 +1,8 @@
+{
+  "ItemUri": "ecwmain/crude_oil.item",
+  "TintColor": "212235",
+  "RadiusMultiplier": 0.5,
+  "CapacityMultiplier": null,
+  "DecorationUris": [],
+  "Tier": 1
+}

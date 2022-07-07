@@ -1,0 +1,14 @@
+{
+  "Items": {
+    "ecwmain/canned_food.item": null,
+    "ecwmain/drinks.item": null,
+    "ecwmain/fruits.item": null,
+    "ecwmain/vegetables.item": null
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 11.0,
+  "TargetUri": "ecwmain/gasoline_refrigerator_truck_2.carunit",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

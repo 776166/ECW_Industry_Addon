@@ -1,0 +1,22 @@
+{
+  "Position": [4.05, 3, 5.55],
+  "Rotation": [0, 0, 0],
+  "SizeX": 4.7,
+  "SizeZ": 1.7,
+  "Items": {
+    "base/stone.item": {
+      "MeshUri": "base/stone_item.obj",
+      "Resolution": [8, 2, 3],
+      "Spacing": [0.1, 0.02, 0.1],
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 175.0,
+  "TargetUri": "ecwmain/stone_big.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}

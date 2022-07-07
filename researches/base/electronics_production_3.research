@@ -1,0 +1,26 @@
+{
+  "ParentResearchUris": [
+    "base/electronic_devices_production.research",
+    "ecwmain/oil_processing.research"
+  ],
+  "Tier": 7,
+  "Days": null,
+  "DaysMultiplier": null,
+  "PricePerDay": null,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [
+    {
+      "Uri": "base/copper_wire.item",
+      "Count": null,
+      "CountMultiplier": null
+    },
+    {
+      "Uri": "ecwmain/plastic.item",
+      "Count": null,
+      "CountMultiplier": 0.7
+    }
+  ],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}

@@ -1,0 +1,36 @@
+{
+  "Keyframes": {
+    "0": {
+      "Position": [-1.3, 0, 2.1],
+      "SizeX": 2.4,
+      "SizeZ": 0.75,
+      "ScaleY": 0
+    },
+    "0.2": {
+      "Position": [-1.3, 0, 2.1],
+      "SizeX": 2.4,
+      "SizeZ": 0.9,
+      "ScaleY": 0.2
+    },
+    "1": {
+      "Position": [-1.3, 0, 2.1],
+      "SizeX": 2.4,
+      "SizeZ": 1.15,
+      "ScaleY": 1
+    }
+  },
+  "Items": {
+    "ecwmain/sulfur.item": {
+      "MeshUri": "ecwmain/sulfur_mine_heap.obj",
+      "Capacity": null,
+      "ExplosionForce": null,
+      "Explosive": false
+    }
+  },
+  "LoadingTime": null,
+  "LoadingTimeMultiplier": null,
+  "MaxWeight": 100.0,
+  "TargetUri": "ecwmain/sulfur.mine",
+  "UnloadingTime": null,
+  "UnloadingTimeMultiplier": null
+}
